@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Accomplish&shy;ments & Certificates'
 subtitle:
 
 # Date format
@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://www.edx.org
+    date_end: '2025-03-11'
+    date_start: '2023-03-11'
+    description: ''
+    organization: ETS
+    organization_url: https://www.edx.org
+    title: TOEIC 950, Golden Certificate
+    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.coursera.org
     date_end: '2023-02-01'
     date_start: '2023-05-31'
@@ -31,21 +39,13 @@ item:
     organization_url: https://www.coursera.org
     title: SQL 
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
-    date_end: '2022-06-30'
+    date_end: '2022-06-03'
     date_start: '2019-09-01'
     description: ''
     organization: DataCamp
     organization_url: https://www.datacamp.com
-    title: 'Data Scientist in R'
+    title: 'Data Scientist with R Track'
     url: ''
 
 design:

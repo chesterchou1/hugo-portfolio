@@ -3,23 +3,23 @@ name = "Starter Blog"
 
 [light]
   # Primary
-  primary = "#2962ff"
+  primary = "#ff8e3c"
 
   # Menu
-  menu_primary = "rgb(247, 250, 252)"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
+  menu_primary = "#fffffe"
+  menu_text = "#0d0d0d"
+  menu_text_active = "#ff8e3c"
+  menu_title = "#0d0d0d"
 
   # Home sections
   home_section_odd = "rgb(247, 250, 252)"
   home_section_even = "rgb(247, 250, 252)"
 
 [dark]
-  primary = "#bbdefb"
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
-  background = "rgb(26, 32, 44)"
-  home_section_odd = "rgb(26, 32, 44)"
-  home_section_even = "rgb(26, 32, 44)"
-  menu_primary = "rgb(26, 32, 44)"
+  primary = "#ff8e3c"
+  link = "#ff8e3c"
+  link_hover = "#ff8e3c"
+  background = "#16161a"
+  home_section_odd = "#16161a"
+  home_section_even = "#16161a"
+  menu_primary = "#16161a"
