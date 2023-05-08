@@ -4,21 +4,13 @@ date: 2023-05-08T04:27:02.426Z
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
-
-
 > TMBA is an academic student club for business school student, It's been running for over 20 years. Most of its alumni are in financial industry, probably because that's one of the best career choice in last decades. Because of it geolocation, most club members are from the top school in Taipei City, like NTU, NCCU, etc.
 
 This is a <i>personal side project</i> that went for a year long, two semesters and one summer vacation(that I wish I could go back) and with some real efforts. It was kind of like a big deal to me in 2020, I felt like I had to do something that would make some impact back then. Though now that I've graduated for almost 2 years. I still found myself keep looking back at what I did at that time. It gives me some sort of self-assurance, determination to keep going, doing what seems right for me, and sometimes I did find different perspectives after having some real work practices.
-
-```{r}
-
-```
-
-![](image/MarCom_Design.png)
 
 ### What I know I was doing (and it's the right thing to do)
 
