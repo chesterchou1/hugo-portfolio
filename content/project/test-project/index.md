@@ -1,6 +1,6 @@
 ---
-title: TMBA Reorg
-subtitle: Class of 2020
+title: "Project TMBA : The background "
+subtitle: Reorganization, Class of 2020
 date: 2023-05-08T04:27:02.426Z
 summary: N﻿ote here
 draft: false
