@@ -1,6 +1,6 @@
 ---
-title: "Chester Chou "
-role: Business Analyst, Commercial Designer
+title: "Chester Chou"
+role: Business Analyst, Commercial Designer and Dog-lover
 avatar_filename: avatar.png
 bio: I create contents in ther business world
 social:
@@ -28,14 +28,15 @@ status:
   icon: ☕️
 ---
 
+I like to create/make stuffs, and quite enjoy the process of crafting.
 
-Ever since I discovered my strong interest in data analysis, specifically data visualization, at my senior year in college. My growing passion has driven me to explore a wide range of interesting topics like programming languages, statistics and research/reporting skills. This is where I found the "perfect sweet spot" between business and art. <br>
+Starting from data visualization, I discovered my strong interest in data analysis in senior year of college. My growing passion has driven me to a wide range of interesting related topics like programming languages, statistics and data reporting skills. This is where I find the "perfect sweet spot" between business and design.  <br>
 
 <i class="fab fa-r-project"></i> has been my all-time favorite language to draw outputs since then. 
 <br><br>
 
 
-{{< icon name="circle-arrow-down" pack="fas" >}} Download English resumé:{{< staticref "uploads/Resume_ChouShuTien.pdf" "newtab" >}} Light ver. {{< /staticref >}}/ {{< staticref "uploads/Resume_ChouShuTien.pdf" "newtab" >}} Dark ver. {{< /staticref >}}
+{{< icon name="circle-arrow-down" pack="fas" >}} Download English resumé:{{< staticref "uploads/Chester Chou Resume 2023-Light Version.pdf" "newtab" >}} Light ver. {{< /staticref >}}/ {{< staticref "uploads/Chester Chou Resume 2023-Dark Version.pdf" "newtab" >}} Dark ver. {{< /staticref >}}
 
 
 

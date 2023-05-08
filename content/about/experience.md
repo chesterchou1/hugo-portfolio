@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Freelancing Business Analyst
-    company: ''
+  - title: Business Analyst
+    company: 'Independent freelancer'
     company_url: ''
     company_logo: ''
     location: Taipei
@@ -37,7 +37,7 @@ experience:
 
   - title: Management Associate, Strategy Planning Department
     company: SinoPac Securities
-    company_url: ''
+    company_url: 'https://securities.sinopac.com/en/index.html'
     company_logo: ''
     location: Taipei
     date_start: '2022-07-04'

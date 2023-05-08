@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: MBA, International Business
     company: National Taiwan University
-    company_url: ''
+    company_url: 'https://www.ntu.edu.tw/english/'
     company_logo: NTU
     location: Taipei, Taiwan
     date_start: '2019-09-01'
@@ -36,7 +36,7 @@ experience:
 
   - title: BBA, Business Administration
     company: National Sun-Yat Sen University
-    company_url: ''
+    company_url: 'https://www.nsysu.edu.tw/?Lang=en'
     company_logo: nsysu
     location: Kaohsiung, Taiwan
     date_start: '2015-09-01'
