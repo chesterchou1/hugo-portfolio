@@ -1,8 +1,16 @@
 ---
-title: Test project
+title: "Project TMBA : The Appetizer"
+subtitle: Reorganization, Class of 2020
 date: 2023-05-08T04:27:02.426Z
+summary: N﻿ote here
 draft: false
 featured: false
+tags:
+  - Department development
+  - Marketing Communication
+  - Project management
+categories:
+  - Project
 image:
   filename: featured.png
   focal_point: Smart
