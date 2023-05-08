@@ -1,8 +1,12 @@
 ---
-title: Test project
+title: TMBA
+subtitle: Department development, Marketing Communication, Project management
 date: 2023-05-08T04:27:02.426Z
+summary: N﻿ote here
 draft: false
 featured: false
+tags:
+  - Marketing
 image:
   filename: featured.png
   focal_point: Smart
