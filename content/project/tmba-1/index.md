@@ -4,6 +4,7 @@ subtitle: An external overview of the project
 date: 2023-05-08T04:27:02.426Z
 summary: Introduction of the student club project, from an cross-functional perspective 
 draft: false
+authors: [Chester Chou]
 featured: false
 tags: [Marketing communication, Strategic planning]
 categories: [Project]

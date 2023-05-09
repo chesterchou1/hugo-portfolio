@@ -45,10 +45,10 @@ item:
     date_start: '2019-09-01'
     organization: DataCamp
     organization_url: https://www.datacamp.com
-    title: 'Data Scientist with R'
+    title: 'Data Scientist with <i class="fab fa-r-project"></i>'
     url: ''
     description: |2-
-      Completed 1 [professional track](https://www.datacamp.com/statement-of-accomplishment/track/dff70a61d51f9add1429233e3a5cb5991c8b87ba) and 30+ courses, topics focused on: 
+      Completed 1 professional track [Data Scientist with <i class="fab fa-r-project"></i>](https://www.datacamp.com/statement-of-accomplishment/track/dff70a61d51f9add1429233e3a5cb5991c8b87ba) and 30+ courses, topics focused on: 
       - Modeling in R: [Bayesian modeling {rstanarm}](https://www.datacamp.com/statement-of-accomplishment/course/96cabc3f51ced87fe68d88a67e103482ebec3b6f), [SEM using {lavaan}](https://www.datacamp.com/statement-of-accomplishment/course/0ba91153b5f55548f8485d46c220b12154bb895f), [tidymodels]()
       - SQL: [Intermediate SQL](https://www.datacamp.com/statement-of-accomplishment/course/fbecc1b5bcb3c548c71a99229056baf4272d32c7)
       - Other: data visulization, data reporting, data cleaning, etc.

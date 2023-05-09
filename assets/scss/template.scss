@@ -1,8 +1,51 @@
 // Starter Blog Template
 // https://wowchemy.com/hugo-themes/
 
+// Serif Fonts
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;900&family=Source+Serif+Pro&display=swap');
+
+// ZH
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Noto+Serif+TC&display=swap');
+
+$font-family-sans-serif:
+  // Safari for OS X and iOS (San Francisco)
+  -apple-system,
+  // Chrome < 56 for OS X (San Francisco)
+  BlinkMacSystemFont,
+  // Windows
+  "Segoe UI",
+  // Android
+  "Roboto",
+  // Basic web fallback
+  "Helvetica Neue", Arial, sans-serif,
+  // Emoji fonts
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+
+
+h1, h2{
+  font-family: 'Roboto Slab';
+	font-weight: 200;
+  letter-spacing: 0.01em;
+  color: #1f1235;
+}
+
+h3 {
+  // font-family: Lora,'Cormorant Garamond','Noto Serif TC', serif;
+	font-weight: 300;
+  letter-spacing: 0.03em;
+  color: #1f1235;
+}
+
+h4, h5 {
+  // font-family: Lora,'Cormorant Garamond','Noto Serif TC', serif;
+	font-weight: 400;
+  letter-spacing: 0.01em;
+  color: #1f1235;
+}
+
 body {
-  background-color: rgb(247, 250, 252);
+  background-color: #fffffe;
+  font-weight: 200;
 }
 
 .article-container {
@@ -26,7 +69,7 @@ body {
 // more rounded cards and larger gap between cards
 .card-simple {
   margin-top: 1.8rem;
-  border-radius: 15px;
+  border-radius: 200px;
 }
 
 .dark .card-simple {
