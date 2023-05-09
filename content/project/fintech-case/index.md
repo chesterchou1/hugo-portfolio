@@ -40,5 +40,12 @@ url_video: ""
 slides: ""
 ---
 
-...
 
+
+### Overview 
+Strategy Analysis on SoFi’s Business Models
+
+![](./image/p1.png)
+
+
+![](./image/p2.png)

@@ -29,8 +29,17 @@ This is a crucial part of the "Reorganization", and leads to the primary action 
 
 When I decided to pivot the department of Strategy & Marketing, the relationships changes. Or more accurately speaking, the way I choose to interact with other department directors defines the role of strategy & marketing department. This takes efforts, time and great patience and a little empathy (not to much because I found not many people would think at the same level, they just did not have that awareness and motivation). So I leverage my personal marketing communication and project management skill to help the club achieve better member acquisition, alumni support and offline events monetization through campaign and content marketing. With all these, I got my foundation of our new relationship. </br>
 
+![](./image/p2.png)
+
+
+
 ##### 3. Internal marketing for better brand marketing:
 
 The whole point of marketing is to creating values, distributing and fulfilling needs. One thing that we often fail to do something is to simply thought about doing things that seems related or necessary in order to get what we want. i.e. we know brand marketing is a good idea but we just can't suddenly be capable of making some real good shits brand assets. As I mentioned earlier the organization itself focused heavily on the financial segment, which is not a intentional choice but rather a course of nature. But note that this is the one of the traditional industry that doesn't require too much marketing resources as their main economical logic. By the way, the history of marketing function in this organization is quite interesting: We're still covering research contents, and yet the media that carrying information is changing. The way to attract information is turning to social platforms. Alumni used to utilize the printed material like magazines. They know the media and channel has changed somehow, but most still think in a rather limited marketing perspective. Anyway, it's the last standing evidence to support why we still need marketing function roles in this club. But one thing must accomplish is to enhance cross over the marketing function/ footprints into each department.  
 
+
+![](./image/p1.png)
+
 ### The real struggle and the real challenges (What I knew I was doing but not sure how it will go)
+
+All above is just the beginning. What's really challenging is where the root cause of the problem is, and happen to be my very reason why I choose to do in the first place, and not thinking about personal interest or opportunity cost. See [next](/project/tmba-2/) 
