@@ -1,20 +1,23 @@
 ---
-title: "Project TMBA : The Appetizer"
-subtitle: Reorganization, Class of 2020
+title: "Project TMBA, Part 1"
+subtitle: An external overview of the project
 date: 2023-05-08T04:27:02.426Z
-summary: Introduction of the student club project
+summary: Introduction of the student club project, from an cross-functional perspective 
 draft: false
 featured: false
 tags: [Marketing communication, Strategic planning]
-categories: [Business]
+categories: [Project]
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
-> TMBA is an academic student club for business school student, It's been running for over 20 years. Most of its alumni are in financial industry, probably because that's one of the best career choice in last decades. Because of it geolocation, most club members are from the top school in Taipei City, like NTU, NCCU, etc.
 
-This is a <i>personal side project</i> that went for a year long, two semesters and one summer vacation(that I wish I could go back) and with some real efforts. It was kind of like a big deal to me in 2020, I felt like I had to do something that would make some impact back then. Though now that I've graduated for almost 2 years. I still found myself keep looking back at what I did at that time. It gives me some sort of self-assurance, determination to keep going, doing what seems right for me, and sometimes I did find different perspectives after having some real work practices.
+> For those who are unfamiliar with the student club, TMBA, it is not unusual. TMBA is an academic club that caters to business school students and has been in operation for over 20 years. Many of its alumni have gone on to pursue careers in the financial industry, which has been one of the most popular career choices over the past few decades. Due to its location, the majority of club members come from prestigious universities in Taipei City, such as NTU and NCCU.
+
+### Introduction
+
+TMBA is one of the 2 student club that I joined in gard school. I took this as my <i>personal side project</i> that eventually went for a year long, two semesters and one summer vacation. It was kind of like a big deal to me in 2020, and I felt like I had to do something that would make some impact back then. So I did put some real efforts in this "project". Though now that I've graduated for almost 2 years. I still found myself keep looking back at what I did at that time. It gives me some sort of self-assurance, determination to keep going, doing what seems right for me, and sometimes I did find different perspectives after having some real work practices.
 
 ### What I know I was doing (and it's the right thing to do)
 

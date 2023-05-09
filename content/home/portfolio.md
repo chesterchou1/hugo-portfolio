@@ -31,9 +31,9 @@ content:
     - name: Business
       tag: Marketing communication
     - name: Data Analysis
-      tag: Data Science
+      tag: Data Science, R
     - name: Design
-      tag: design
+      tag: Design, Slide deck
 
 design:
   columns: '1'
