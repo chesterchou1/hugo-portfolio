@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Fintech Case"
+title: "Fintech Case Study: Business Model & Strategy Analysis"
 summary: "Analyzing on the business model of a US FinTech company, a one-stop financial service provider- SoFi, then evaluate their strategies in different stages"
 authors: []
-tags: [Strategic planning]
-categories: []
+tags: [Strategic planning, Slide]
+categories: [Slide decks]
 date: 2023-05-09T00:17:57+08:00
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +16,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   filename: featured.png
-  caption: 
+  caption: 'Sofi'
   focal_point: "smart"
   preview_only: true
 

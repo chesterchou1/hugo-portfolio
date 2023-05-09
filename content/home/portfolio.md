@@ -33,8 +33,7 @@ content:
     - name: Data Analysis
       tag: Data Science, R
     - name: Design
-      tag: Design, Slide deck
-
+      tag: Design, Slide
 design:
   columns: '1'
   view: masonry

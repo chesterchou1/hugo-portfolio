@@ -29,9 +29,7 @@ experience:
     location: Taipei
     date_start: '2023-02-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
+    description: |2-    
         * Provided expert business consultancy services to entrepreneurs and startups, specializing in business model design and investor pitch decks
         * Conducted extensive market research across various industries to identify opportunities and optimize business strategies
 
@@ -43,7 +41,6 @@ experience:
     date_start: '2022-07-04'
     date_end: '2023-01-08'
     description: |2-
-        Responsibilities include:
         
         * Analyzed and presented a comprehensive FinTech strategy analysis report to the Chairman and the strategy office, outlining key opportunities and recommendations for improvement
         * Rotated across four optimization topics, including advisory digitalization, sales operations, startup valuation, etc., to identify and implement improvements in various business units
@@ -57,7 +54,6 @@ experience:
     date_start: '2021-10-17'
     date_end: '2022-06-18'
     description: |2-
-        Responsibilities include:
         
         * Conducted in-depth research and presented detailed case reports of competitors and strategic partners to executives, utilizing strategic frameworks and financial analysis to inform decision-making
         * Collaborated with cross-functional teams to accelerate ongoing projects and initiate new partnerships, contributing to the execution of key initiatives.
@@ -71,12 +67,10 @@ experience:
     date_start: '2021-02-01'
     date_end: '2021-03-31'
     description: |2-
-        Responsibilities include:
         
         * Maintained content localization under global/agency marketing campaigns across online channels (web & social)
         * Created digital contents for social media to attract online streams into retail stores, official website, online shops
         * Assisted in marketing data gathering for monthly performance tracking and internal marketing designs
-
 
 design:
   columns: '1'
