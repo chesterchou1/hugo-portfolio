@@ -1,5 +1,5 @@
 ---
-title: "Project TMBA, Part 2"
+title: "Project Club Reorg, Part II"
 summary: Introduction of the student club project includes department and resource development, project management, etc.
 authors: []
 tags: [Marketing communication, Project management]

@@ -4,31 +4,34 @@
 // Serif Fonts
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;900&family=Source+Serif+Pro&display=swap');
 // Sans Serif Fonts
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Open+Sans&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Open+Sans&family=Poppins&family=Roboto&display=swap');
 // ZH
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Noto+Serif+TC&display=swap');
+//Special Fonts
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Montserrat+Alternates&family=Montserrat+Subrayada&display=swap');
 
-$font-family-sans-serif:
-  // Safari for OS X and iOS (San Francisco)
-  -apple-system,
-  // Chrome < 56 for OS X (San Francisco)
-  BlinkMacSystemFont,
-  // Windows
-  "Segoe UI",
-  // Android
-  "Roboto",
-  // Basic web fallback
-  "Helvetica Neue", Arial, sans-serif,
-  // Emoji fonts
-  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+// $font-family-sans-serif:
+//   // Safari for OS X and iOS (San Francisco)
+//   -apple-system,
+//   // Chrome < 56 for OS X (San Francisco)
+//   BlinkMacSystemFont,
+//   // Windows
+//   "Segoe UI",
+//   // Android
+//   "Roboto",
+//   // Basic web fallback
+//   "Helvetica Neue", Arial, sans-serif,
+//   // Emoji fonts
+//   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
 
 h1, h2{
-  font-family: 'Roboto Slab';
+  font-family: 'Montserrat Alternates';
 	font-weight: 200;
   letter-spacing: 0.01em;
   color: #1f1235;
 }
+
 
 h3 {
   // font-family: Lora,'Cormorant Garamond','Noto Serif TC', serif;
@@ -47,7 +50,7 @@ h4, h5 {
 body {
   background-color: #fffffe;
   font-weight: 200;
-  font-family: 'Roboto';
+  font-family: 'Poppins';
 }
 
 .article-container {
