@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Fintech Case"
-summary: ""
+summary: "Analyzing on the business model of a US FinTech company, a one-stop financial service provider- SoFi, then evaluate their strategies in different stages"
 authors: []
 tags: [Strategic planning]
 categories: []
@@ -41,3 +41,4 @@ slides: ""
 ---
 
 ...
+

@@ -3,12 +3,11 @@ name = "Starter Blog"
 
 [light]
   # Primary
-  primary = "#ff8e3c"
-
+  primary = "#00ebc7"
   # Menu
   menu_primary = "#fffffe"
   menu_text = "#0d0d0d"
-  menu_text_active = "#ff8e3c"
+  menu_text_active = "#00ebc7"
   menu_title = "#0d0d0d"
 
   # Home sections
