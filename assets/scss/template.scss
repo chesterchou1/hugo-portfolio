@@ -3,7 +3,8 @@
 
 // Serif Fonts
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;900&family=Source+Serif+Pro&display=swap');
-
+// Sans Serif Fonts
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Open+Sans&family=Roboto&display=swap');
 // ZH
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Noto+Serif+TC&display=swap');
 
@@ -46,6 +47,7 @@ h4, h5 {
 body {
   background-color: #fffffe;
   font-weight: 200;
+  font-family: 'Roboto';
 }
 
 .article-container {
@@ -67,9 +69,9 @@ body {
 }
 
 // more rounded cards and larger gap between cards
-.card-simple {
-  margin-top: 1.8rem;
-  border-radius: 200px;
+.card-simple {  
+  margin-top: 1.5rem;
+  border-radius: 200px; 
 }
 
 .dark .card-simple {
@@ -138,8 +140,8 @@ ul.network-icon .big-icon {
 .avatar {
   width: auto;
   height: auto;
-  max-width: 225px;
-  max-height: 225px;
+  max-width: 250px;
+  max-height: 250px;
 }
 
 // Prevent stretching on About page with narrow container
@@ -152,9 +154,9 @@ ul.network-icon .big-icon {
 
 // Smaller Name and Role text on About page than in homepage `about.avatar` widget
 .wg-about .portrait-title h2 {
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 
 .wg-about .portrait-title h3 {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
 }

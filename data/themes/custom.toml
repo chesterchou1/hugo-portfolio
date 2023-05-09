@@ -3,18 +3,21 @@ name = "Starter Blog"
 
 [light]
   # Primary
-  primary = "#3da9fc"
+  primary = "#90b4ce"
+  link = "#90b4ce"
+  link_hover = "#3da9fc"
   # Menu
   menu_primary = "#fffffe"
-  menu_text = "#172A3A"
+  menu_text = "#094067"
   menu_text_active = "#3da9fc"
   menu_title = "#fffffe"
-
+  background = "#16161a"
   # Home sections
-  home_section_odd = "rgb(247, 250, 252)"
-  home_section_even = "rgb(247, 250, 252)"
+  home_section_odd = "#fffffe"
+  home_section_even = "#fffffe"
 
-
+  # home_section_odd = "rgb(247, 250, 252)"
+  # home_section_even = "rgb(247, 250, 252)"
 [dark]
   primary = "#ff8e3c"
   link = "#ff8e3c"
@@ -25,3 +28,4 @@ name = "Starter Blog"
   home_section_even = "#16161a"
   menu_primary = "#16161a"
   menu_title = "#0d0d0d"
+  
