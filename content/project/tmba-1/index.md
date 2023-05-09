@@ -2,7 +2,7 @@
 title: "Project Club Reorg, Part I"
 subtitle: An external overview of the project backround, TMBA 2020
 date: 2023-05-08T04:27:02.426Z
-summary: Introduction of the student club (TMBA)project, from an cross-functional perspective 
+summary: Introduction of the student club (TMBA) project, from an cross-functional perspective 
 draft: false
 authors: [Chester Chou]
 featured: false

@@ -31,7 +31,7 @@ content:
     - name: Business
       tag: Marketing communication
     - name: Data Analysis
-      tag: Data Science, R
+      tag: Data analysis, R
     - name: Design
       tag: Design, Slide
 design:
