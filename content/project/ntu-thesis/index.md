@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Co-branding strategy evaluation"
+title: "Co-branding strategy evaluation: Co-branding or not and How to choose?"
 summary: "Applied Bayesian Statistics and Conjoint Analysis to evaluate the marketing strategy effectiveness of Co-branding"
 authors: [Chester Chou]
 tags: [Data analysis, Quantitative Marketing Research]
 categories: [Data Analysis]
-date: 2023-05-09T23:24:22+08:00
+date: 2023-05-09T23:34:22+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,3 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+
+![](image/p1.png)
