@@ -10,7 +10,7 @@ widget_id: Project
 
 👋🏻 Hi, there! I'm **Chester**. <br>
 Born and raised in Tainan, currently base in Taipei <br>
-Favorite things: 🌅 🎸 🎧 🐶 📺 💻
+life components: 🌅 🎸 🎧 🐶 📺 💻 🚴🏼
 <!-- <i class="fa-brands fa-spotify" style="color: #146aff;"></i> -->
 
 

@@ -1,13 +1,13 @@
 ---
-title: "Project Club Reorg, Part I"
+title: "Project TMBA, Club Reorg Part I"
 subtitle: An external overview of the project backround, TMBA 2020
 date: 2023-05-08T04:27:02.426Z
-summary: Introduction of the student club (TMBA) project, from an cross-functional perspective 
+summary: Introduction of the student club project, starting from an cross-functional perspective 
 draft: false
 authors: [Chester Chou]
 featured: false
-tags: [Marketing communication, Strategic planning]
-categories: [Leadership]
+tags: [Marketing communication, Strategic planning, 'Crossfunction communication', 'Leadership']
+categories: [TMBA]
 image:
   filename: featured.png
   focal_point: Smart
@@ -16,7 +16,7 @@ image:
 
 > For those who are unfamiliar with the student club, TMBA, it is not unusual. TMBA is an academic club that caters to business school students and has been in operation for over 20 years. Many of its alumni have gone on to pursue careers in the financial industry, which has been one of the most popular career choices over the past few decades. Due to its location, the majority of club members come from prestigious universities in Taipei City, such as NTU and NCCU.
 
-### Introduction
+### **Introduction**
 
 TMBA is one of the 2 student club that I joined in gard school. I took this as my <i>personal side project</i> that eventually went for a year long, two semesters and one summer vacation. It was kind of like a big deal to me in 2020, and I felt like I had to do something that would make some impact back then. So I did put some real efforts in this "project". Though now that I've graduated for almost 2 years. I still found myself keep looking back at what I did at that time. It gives me some sort of self-assurance, determination to keep going, doing what seems right for me, and sometimes I did find different perspectives after having some real work practices.
 
@@ -44,6 +44,6 @@ The whole point of marketing is to creating values, distributing and fulfilling 
 
 ![](./image/p1.png)
 
-### The real struggle and the real challenges (What I knew I was doing but not sure how it will go)
+### **The real struggle and the real challenges (What I knew I was doing but not sure how it will go)**
 
-All above is just the beginning. What's really challenging is where the root cause of the problem is, and happen to be my very reason why I choose to do in the first place, and not thinking about personal interest or opportunity cost. See [next](/project/tmba-2/) 
+All above is just the beginning. I took about 3 months(the whole summer vacation) to move on to next page, which was where the root cause of the problem was, and happened to be my very reason why I chose to do in the first place, and not thinking about personal interest or opportunity cost. See [next](/project/tmba-2/) 

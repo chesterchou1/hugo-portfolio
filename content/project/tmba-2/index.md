@@ -1,9 +1,9 @@
 ---
-title: "Project Club Reorg, Part II"
+title: "Project TMBA Club Reorg Part II"
 summary: Introduction of the student club project includes department and resource development, project management, etc.
 authors: [Chester Chou]
-tags: [Marketing communication, Project management]
-categories: [Leadership]
+tags: ['Marketing communication', 'Project management', 'Club leadership', 'Resource development']
+categories: [TMBA]
 date: 2023-05-09T00:17:16+08:00
 
 # Optional external URL for project (replaces project detail page).
@@ -54,7 +54,7 @@ This makes the brand positioning, the way this brand communicates and interacts 
 
 
 
-### Summer Project: Global Financial Market Summit
+### **Summer Project: Global Financial Market Summit**
 
 ![](./image/p1.png)
 
