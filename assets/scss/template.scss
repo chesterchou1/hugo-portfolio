@@ -20,8 +20,9 @@ $font-family-sans-serif:
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
 
+  
 h1, h2{
-  font-family: 'Roboto Slab';
+  font-family: 'Roboto Slab', serif;
 	font-weight: 200;
   letter-spacing: 0.01em;
   color: #1f1235;
@@ -45,7 +46,7 @@ h4, h5 {
 body {
   background-color: #fffffe;
   font-weight: 200;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
 }
 
 .article-container {
