@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Market Research Car"
-summary: ""
+title: "Market Research, Automotive in TW"
+summary: "Automotive in TW, last 10 years"
 authors: [Chester Chou]
 tags: [Data analysis]
-categories: [ggplot2]
+categories: [Data Visualization]
 date: 2023-05-10T15:23:18+08:00
 
 # Optional external URL for project (replaces project detail page).
@@ -42,3 +42,4 @@ slides: ""
 
 
 ### **Overview**
+
