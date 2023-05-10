@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Market Research, Automotive in TW"
-summary: "Automotive in TW, last 10 years"
+summary: "Automotive industry in TW, 2013-2023"
 authors: [Chester Chou]
 tags: [Data analysis]
 categories: [Data Visualization]
@@ -43,3 +43,9 @@ slides: ""
 
 ### **Overview**
 
+
+
+![](./image/CAR-1.png)
+![](./image/marker_top30.png)
+![](./image/market_yoy_year_wh.png)
+![](./image/market_imported_year_wh.png)

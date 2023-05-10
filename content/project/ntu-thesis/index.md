@@ -45,7 +45,7 @@ slides: ""
 
 ### **Overview**
 
-![](image/p1.png)
+![](.image/../image/p2.png)
 
 
 ### Introduction 
