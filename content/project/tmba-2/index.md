@@ -3,7 +3,7 @@ title: "Project Club Reorg, Part II"
 summary: Introduction of the student club project includes department and resource development, project management, etc.
 authors: [Chester Chou]
 tags: [Marketing communication, Project management]
-categories: []
+categories: [Leadership]
 date: 2023-05-09T00:17:16+08:00
 
 # Optional external URL for project (replaces project detail page).

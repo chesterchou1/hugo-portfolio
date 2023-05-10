@@ -2,7 +2,7 @@
 // https://wowchemy.com/hugo-themes/
 
 // Google Fonts
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Montserrat+Alternates&family=Montserrat+Subrayada&family=Poppins&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Poppins&family=Raleway&family=Roboto+Slab&display=swap');
 
 
 $font-family-sans-serif:
@@ -25,6 +25,7 @@ h1, h2{
   font-family: 'Montserrat', sans-serif;
 	font-weight: 200;
   letter-spacing: 0.01em;
+  line-height: 1.2em;
   color: #1f1235;
 }
 
@@ -33,6 +34,7 @@ h3 {
   // font-family: Lora,'Cormorant Garamond','Noto Serif TC', serif;
 	font-weight: 500;
   letter-spacing: 0.03em;
+  line-height: 1.5em;
   color: #1f1235;
 }
 

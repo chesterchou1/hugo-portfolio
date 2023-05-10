@@ -46,7 +46,7 @@ experience:
         * Dissertation/ Graduation Seminar on Emprical Economics (2019), see [project demo](https://chesterchou.dev/project/seminar-housing/)
         * NYSYU English Writing Contest, first place (2019)
         * NSYSU Big Data in R Final Project Award (2019)
-        * English tutor, Volunteering in Hua Yuan (2019)
+        * English tutoring and After-course volunteering in Hua-Yuan Childcare Service Center (2019)
         * Graphic Designer, College Campaign Project with Kaohsiung Rapid Transit Corporation (2016)
     
 design:
