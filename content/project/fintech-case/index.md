@@ -43,7 +43,7 @@ slides: ""
 
 
 
-### Overview 
+### **Overview** 
 Strategy Analysis on SoFi’s Business Models
 
 ![](./image/p1.png)
