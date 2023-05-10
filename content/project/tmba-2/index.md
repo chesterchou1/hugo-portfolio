@@ -52,8 +52,11 @@ In this scenario, club members won't find marketing necessary only when they hav
 
 This makes the brand positioning, the way this brand communicates and interacts with its customer unanimously and difficult to manage.
 
-![](./image/p1.png)
 
+
+### Summer Project: Global Financial Market Summit
+
+![](./image/p1.png)
 
 
 

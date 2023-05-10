@@ -1,6 +1,5 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Does Schooling Area matter to the housing price?"
 summary: "Adopted the spatial variables into housing price model, using quantile regression to model"
 authors: [Chester Chou]
@@ -45,3 +44,6 @@ slides: ""
 
 
 ![](./image/p1.png)
+
+
+### Findings

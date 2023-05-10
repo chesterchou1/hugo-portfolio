@@ -4,7 +4,7 @@
 title: "Market Research in PC/Laptop"
 summary: "Overview PC Inustry in 2023, after COVID19, desktop research"
 authors: [Chester Chou]
-tags: [Design,Slide,Marketing Research]
+tags: ['Design','Slide','Marketing Research']
 categories: [Slide decks]
 date: 2023-05-09T14:28:01+08:00
 
