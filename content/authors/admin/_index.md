@@ -1,6 +1,6 @@
 ---
 title: "Chester Chou"
-role: Business Analyst, Commercial Designer and Dog-lover
+role: Business Analyst, Commercial Designer
 avatar_filename: avatar.png
 bio: I create contents in the business world
 social:
@@ -39,7 +39,7 @@ Starting from data visualization, I discovered my strong interest in data analys
 <p>
   <a class="btn btn-primary" data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">{{< icon name="circle-arrow-down" pack="fas" >}}Download My English Resumé (.pdf)</a>
   <!-- <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Toggle second element</button> -->
-  <!-- <button class="btn btn-primary" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2">Toggle both elements</button> -->
+  <!-- <button class="btn btn-primary" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2">Toggle both elements</buttohugon> -->
 </p>
 <div class="row">
   <div class="col">

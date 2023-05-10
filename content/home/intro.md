@@ -14,7 +14,7 @@ Born and raised in Tainan, currently base in Taipei 🇹🇼
 <!-- <i class="fa-brands fa-spotify" style="color: #146aff;"></i> -->
 
 
-
 {style="font-size: 1.5rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 20%, #FFA73D 30%, #FF7C00 60%, #FF2204 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+
 
 Check out my [resumé](/about/) and portfolio below!  
