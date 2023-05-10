@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Market Research, Automotive in TW"
-summary: "Automotive industry in TW, 2013-2023"
+summary: "Automotive industry in TW, 2013-2023, using open data"
 authors: [Chester Chou]
 tags: ['Data analysis', 'Market research']
 categories: [Data Visualization]
