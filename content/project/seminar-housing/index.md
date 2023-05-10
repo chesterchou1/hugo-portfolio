@@ -5,7 +5,7 @@ title: "Does Schooling Area matter to the housing price?"
 summary: "Adopted the spatial variables into housing price model, using quantile regression to model"
 authors: []
 tags: [Data analysis, Empircal Economics Research]
-categories: []
+categories: [Slide decks]
 date: 2023-05-09T23:30:44+08:00
 
 # Optional external URL for project (replaces project detail page).
@@ -41,6 +41,7 @@ url_video: ""
 slides: ""
 ---
 
+### **Overview**
 
 
 ![](./image/p1.png)

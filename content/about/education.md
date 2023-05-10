@@ -31,8 +31,8 @@ experience:
     date_end: '2021-09-01'
     description: |2-
         * [*Master Thesis*](https://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0001-3108202116175100) on Bayesian Statistics and Quantitative brand/customer research: Evaluating the marketing strategy effectiveness of Co-branding (2021)
-        * TMBA Strategy & Marketing Dept., Director (2020-2021), [more on project demo](https://chesterchoudev/project/tmba-1/)
-        * NTU Consulting Club, Club member (2020)
+        * TMBA Strategy & Marketing Dept., Director (2020-2021), see [project demo](https://chesterchou.dev/project/tmba-1/)
+        * ~~NTU Consulting Club, Club member (2020)~~
 
   - title: BBA, Business Administration
     company: National Sun-Yat Sen University
@@ -42,7 +42,7 @@ experience:
     date_start: '2015-09-01'
     date_end: '2021-06-30'
     description: |2-
-        * Dissertation/ Graduation Seminar on Emprical Economics (2019), see on 
+        * Dissertation/ Graduation Seminar on Emprical Economics (2019), see [project demo](https://chesterchou.dev/project/seminar-housing/)
         * NYSYU English Writing Contest, first place (2019)
         * NSYSU Big Data in R Final Project Award (2019)
         * English tutor, Volunteering in Hua Yuan (2019)

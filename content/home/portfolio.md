@@ -29,14 +29,14 @@ content:
     - name: All
       tag: '*'
     - name: Business
-      tag: Marketing communication
+      tag: Marketing communication, Project managment
     - name: Data Analysis
       tag: Data analysis, R
     - name: Design
       tag: Design, Slide
 design:
   columns: '1'
-  view: masonry
+  view: Showcase 
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
