@@ -2,7 +2,7 @@
 // https://wowchemy.com/hugo-themes/
 
 // Google Fonts
-@import 'https://fonts.googleapis.com/css2?family=Montserrat&family=Montserrat+Alternates&family=Montserrat+Subrayada&family=Poppins&family=Roboto+Slab&display=swap';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Montserrat+Alternates&family=Montserrat+Subrayada&family=Poppins&family=Roboto+Slab&display=swap');
 
 
 $font-family-sans-serif:
@@ -21,7 +21,7 @@ $font-family-sans-serif:
 
 
 h1, h2{
-  font-family: 'Montserrat Alternates';
+  font-family: 'Roboto Slab';
 	font-weight: 200;
   letter-spacing: 0.01em;
   color: #1f1235;
