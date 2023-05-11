@@ -1,0 +1,9 @@
+library(ggplot2)
+
+ggplot(mpg, aes(displ, hwy, colour = class)) + 
+  geom_point() +
+  labs(x = "")
+
+
+print("Hello Kitty")
+y <- c(1,2,4)
