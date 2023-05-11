@@ -1,7 +1,7 @@
 ---
 title: "Chester Chou"
 role: Business Analyst, Commercial Designer
-avatar_filename: avatar.png
+avatar_filename: avatar.jpeg
 bio: I create contents in the business world
 social:
   - icon: envelope
