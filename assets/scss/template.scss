@@ -2,8 +2,8 @@
 // https://wowchemy.com/hugo-themes/
 
 // Google Fonts
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Poppins&family=Raleway&family=Roboto+Slab&display=swap');
-
+// @import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Poppins&family=Raleway&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&family=Montserrat&family=Poppins&family=Roboto+Slab&display=swap');
 
 $font-family-sans-serif:
   // Safari for OS X and iOS (San Francisco)
@@ -22,8 +22,8 @@ $font-family-sans-serif:
 
   
 h1, h2{
-  font-family: 'Montserrat', sans-serif;
-	font-weight: 200;
+  font-family: 'Roboto Slab', serif;
+  	font-weight: 100;
   letter-spacing: 0.01em;
   line-height: 1.2em;
   color: #1f1235;
