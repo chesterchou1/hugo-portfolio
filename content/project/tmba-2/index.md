@@ -47,17 +47,21 @@ Disclaimer: Please note that this page is a work in progress. I'll be actively u
 
 ### **The Challenges**
 
-One thing that can be sure is the whole club needs the marketing function, whether it's doing editor works or thesedays social/content marketing stuffs, let alone something beyond. Most club leaders from different functions don't need to rely on the marketing resources to recruit the new members, as long as they have their resources from alumni, and their network to junior peers. This is the flying wheel that would keeps some major functions rolling and rolling spontaneously. Most department leaders just have to execute those milestones as before and coming up with something to make better on top of.  
+One thing that can be sure is the whole club needs the marketing function, whether it's doing editor works or these days social/content marketing stuffs, let alone something beyond. Most club leaders from different functions don't need to rely on the marketing resources to recruit the new members, as long as they have their resources from alumni, and their network to junior peers. This is the flying wheel that would keeps some major functions rolling and rolling spontaneously. Most department leaders just have to execute those milestones as before and coming up with something to make better on top of.  
 
-In this scenario, club members won't find marketing necessary only when they have some bare minimum works which normally were out of their capabilites and goals, they would turn to find someone with specific marketing skills or simply a heart that willing to help.
+However, in this scenario, club members may not perceive marketing as necessary until they encounter tasks that surpass their own capabilities and goals. At that point, they seek out individuals with specific marketing skills or simply individuals who are willing to assist.
 
-This makes the brand positioning, the way this brand communicates and interacts with its customer unanimously and difficult to manage.
-
-
+This dynamic creates a challenge in managing brand positioning and establishing consistent communication and interactions with customers.
 
 ### **Summer Project: Global Financial Market Summit**
 
 ![](./image/p1.png)
+
+
+### The Results
+
+
+1. 
 
 
 
