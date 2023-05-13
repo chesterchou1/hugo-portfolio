@@ -2,28 +2,27 @@
 // https://wowchemy.com/hugo-themes/
 
 // Google Fonts
-// @import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Poppins&family=Raleway&family=Roboto+Slab&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Klee+One&family=Montserrat&family=Poppins&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa&family=Montserrat&family=Poppins&family=Roboto+Slab&display=swap');
 
-$font-family-sans-serif:
-  // Safari for OS X and iOS (San Francisco)
-  -apple-system,
-  // Chrome < 56 for OS X (San Francisco)
-  BlinkMacSystemFont,
-  // Windows
-  "Segoe UI",
-  // Android
-  "Roboto",
-  // Basic web fallback
-  "Helvetica Neue", Arial, sans-serif,
-  // Emoji fonts
-  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+// $font-family-sans-serif:
+//   // Safari for OS X and iOS (San Francisco)
+//   -apple-system,
+//   // Chrome < 56 for OS X (San Francisco)
+//   BlinkMacSystemFont,
+//   // Windows
+//   "Segoe UI",
+//   // Android
+//   "Roboto",
+//   // Basic web fallback
+//   "Helvetica Neue", Arial, sans-serif,
+//   // Emoji fonts
+//   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
 
   
 h1, h2{
-  font-family: 'Roboto Slab', serif;
-  	font-weight: 100;
+  font-family: 'Lexend Exa', sans-serif;
+  font-weight: 200;
   letter-spacing: 0.01em;
   line-height: 1.2em;
   color: #1f1235;
@@ -31,7 +30,7 @@ h1, h2{
 
 
 h3 {
-  // font-family: Lora,'Cormorant Garamond','Noto Serif TC', serif;
+  font-family: 'Montserrat', sans-serif;
 	font-weight: 500;
   letter-spacing: 0.03em;
   line-height: 1.5em;
@@ -40,7 +39,8 @@ h3 {
 
 h4, h5 {
   // font-family: Lora,'Cormorant Garamond','Noto Serif TC', serif;
-	font-weight: 400;
+	font-family: 'Poppins', sans-serif;
+  font-weight: 400;
   letter-spacing: 0.01em;
   color: #1f1235;
 }
