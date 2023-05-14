@@ -140,6 +140,11 @@ body {
 // no navbar shadow
 .navbar {
   box-shadow: none !important; // 'important' to override dark mode box-shadow too.
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1000;
+  padding: 0 1rem;
 }
 
 // custom section padding
@@ -313,6 +318,68 @@ ul.network-icon .big-icon {
   filter: blur(96px);
 
 }
+
+
+
+.article-style aside p,
+div.alert > div {
+  position: relative;
+  display: block;
+  /* I made the font size smaller & adjusted the margin-left */
+  font-size: 0.8rem;
+  margin-left: 1.7rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* I also changed the color of the icon & its top & left positions */ 
+.article-style aside p::before,
+div.alert > div:first-child::before {
+  position: absolute;
+  top: -0.3rem;
+  left: -2rem;
+  font-size: 1.4rem;
+  color: #0EAD69;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f05a';
+  width: 1rem;
+  text-align: left;
+}
+
+/* You can edit the borders and backgrounds here */
+
+.article-style div.notice warning{
+  color: #26547C;
+  background-color: #F7F7F7;
+  border-color: #0EAD69;
+}
+
+
+// .article-style aside,
+// .notice-warning {
+//   color: #26547C;
+//   background-color: #F7F7F7;
+//   border-color: #0EAD69;
+// }
+
+.alert-warning {
+  // font-size: 0.1rem;
+  color: #cd0930;
+  background-color: #fff5f7;
+  border-color: #ff3860;
+}
+
+
+.card card-body{
+  color: #26547C;
+  background-color: #F7F7F7;
+  border-color: #0EAD69;
+
+}
+
+
+
 
 
 

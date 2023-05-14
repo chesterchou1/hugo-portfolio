@@ -50,3 +50,8 @@ Strategy Analysis on SoFi’s Business Models
 
 
 ![](./image/p2.png)
+
+
+
+<!-- <script async class="speakerdeck-embed" data-id="4e8126e72d853c0060001f97" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script> -->
+
