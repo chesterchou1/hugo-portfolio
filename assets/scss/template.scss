@@ -186,3 +186,18 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.75rem;
 }
+
+
+
+#about {
+  
+  @keyframes yourfirstanimation {
+    0% {opacity: 0; color: red;}
+    100% {opacity: 1; color: black;}
+  }
+
+  .avatar {
+    animation: yourfirstanimation 5s forwards;
+  }
+  
+}

@@ -32,6 +32,7 @@ I like to create/make stuffs, and quite enjoy the process of crafting.
 
 Starting from data visualization, I discovered my strong interest in data analysis in senior year of college. My growing passion has driven me to a wide range of interesting related topics like programming languages, statistics and data reporting skills. This is where I find the "perfect sweet spot" between business and design.  <br>
 
+
 <i class="fab fa-r-project"></i> has been my all-time favorite language to draw analytical/visual outputs since then. 
 <br><br>
 
