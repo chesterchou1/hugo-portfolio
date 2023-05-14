@@ -47,7 +47,7 @@ Disclaimer: Please note that this page is a work in progress. I'll be actively u
 
 ### **The Challenges**
 
-One thing that can be sure is the whole club needs the marketing function, whether it's doing editor works or these days social/content marketing stuffs, let alone something beyond. Most club leaders from different functions don't need to rely on the marketing resources to recruit the new members, as long as they have their resources from alumni, and their network to junior peers. This is the flying wheel that would keeps some major functions rolling and rolling spontaneously. Most department leaders just have to execute those milestones as before and coming up with something to make better on top of.  
+One thing that can be sure is the whole club needs the marketing function, whether it's doing editor works or these days social/content marketing stuffs, let alone something beyond. Most club leaders from different functions don't need to rely on the marketing resources to recruit the new members, as long as they have their resources from alumni, and their network to junior peers. This is the flying wheel that would keep some major functions rolling and rolling spontaneously. Most department leaders just have to execute those milestones as before and coming up with something to make better on top of.  
 
 However, in this scenario, club members may not perceive marketing as necessary until they encounter tasks that surpass their own capabilities and goals. At that point, they seek out individuals with specific marketing skills or simply individuals who are willing to assist.
 
@@ -58,10 +58,14 @@ This dynamic creates a challenge in managing brand positioning and establishing 
 ![](./image/p1.png)
 
 
-### The Results
+### **The Results**
 
+✅ Continued running the department, a big win <br>
+✅ Then it was handed over to 3 better talents <br>
+✅ Accomplished 2 projects, 2 cases studies and 10 courses <br>
+✅ Increased the member acquisition by 110% YoY <br>
+✅ Improved the member engagement and activeness by 54% YoY <br>
 
-1. 
 
 
 

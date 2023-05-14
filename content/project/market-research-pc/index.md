@@ -52,4 +52,8 @@ slides: ""
    1. Gaming: emphasizing performance and immersive experiences in games;
    2. Mobile workstations: providing all-in-one productivity and creativity;
    3. Ultrabooks: offering extreme portability for everyday productivity
-- **Emergence of Booming AI Applications and Hybrid Working:** The rise of artificial intelligence (AI) applications and the increasing prevalence of hybrid working arrangements have introduced new use cases and opportunities. AGI (Artificial General Intelligence) technologies, exemplified by advancements such as ChatGPT and AutoGPT, are revolutionizing the computing landscape. These new use cases have the potential to drive product innovation and stimulate demand. Additionally, the digital workplace services market is projected to reach $93 billion by 2025. Moreover, we are witnessing a notable shift from a predominantly work-from-home (WFH) culture to a hybrid working model.
+- **Emergence of Booming AI Applications and Hybrid Working:** The rise of AI applications and the increasing prevalence[^1] of hybrid working arrangements have introduced new use cases and opportunities. AGI (Artificial General Intelligence) technologies, exemplified by advancements such as ChatGPT and AutoGPT, are revolutionizing the computing landscape. These new use cases have the potential to drive product innovation and stimulate demand. Additionally, the digital workplace services market is projected to reach $93 billion by 2025. Moreover, we are witnessing a notable shift from a predominantly work-from-home (WFH) culture to a hybrid working model.
+
+
+<!-- ##### Reference & Sources -->
+[^1]: 

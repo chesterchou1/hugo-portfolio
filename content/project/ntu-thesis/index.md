@@ -73,7 +73,7 @@ The core methodologies employed in this study aimed to evaluate individuals' het
 By utilizing these core methodologies, the research aimed to gain a comprehensive understanding of individuals' heterogeneous preferences and their willingness-to-pay towards the product/service offering, enabling effective market segmentation and pricing strategies.
 
 
-##### Research framework
+### **Research framework**
 
 ![Research framework](./image/research_framework.png)
 

@@ -32,7 +32,7 @@ content:
       tag: Marketing communication, Project managment
     - name: Data Analysis
       tag: Data analysis, R
-    - name: Design/Decks
+    - name: Design
       tag: Design, Slide
 design:
   columns: '1'
