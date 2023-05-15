@@ -294,14 +294,26 @@ ul.network-icon .big-icon {
   font-size: 0.75rem;
 }
 
+//  about 
+
 .bg-shape{
   width: 520px;
   height: 520px;
   border-radius: 9999px;
+  z-index:-1;
 }
 
+.bg-blur {
+  filter:blur(192px)
+}
 
+.opacity-50 {
+  opacity: .5;
+}
 
+.bg-primary{
+  background-color: #86D2C7;
+}
 
 
 .box{
@@ -319,7 +331,11 @@ ul.network-icon .big-icon {
 
 }
 
+// .about.avatar{
+  
 
+
+// }
 
 .article-style aside p,
 div.alert > div {
@@ -339,7 +355,7 @@ div.alert > div:first-child::before {
   top: -0.3rem;
   left: -2rem;
   font-size: 1.4rem;
-  color: #0EAD69;
+  color: #26547C;
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   content: '\f05a';
@@ -380,6 +396,58 @@ div.alert > div:first-child::before {
 
 
 
+
+
+
+
+
+// .kbd {
+//   color: #26547C;
+//   background-color: #F7F7F7;
+//   background-image: linear-gradient(to bottom, #330867, #3e2b81, #4a489b, #5964b3, #6a81ca, #6592d8, #63a3e3, #64b4ed, #48bcec, #2dc3e6, #20cadd, #30cfd0);
+// }
+
+// .magic-button, a[href$="#magic-button"] {
+//     display: inline-block;
+//     padding: 0px;
+//     position: relative;
+//     background: #fff;
+//     color: white;
+//     // text-shadow: 0 1px #006bb3;
+//     border-radius: 20px;
+//     box-shadow: inset 0 0 0 1px #006bb3,
+//         0 1px 2px rgba(0,0,0,0.1);
+//     text-decoration: none;
+//     font-family: "Trebuchet MS", sans-serif;
+// }
+// .magic-button::after, a[href$="#magic-button"]::after {
+//     box-sizing: border-box;
+//     display: block;
+//     content: attr(title);
+//     background: #fff;
+//     border-radius: 20px;
+//     // box-shadow: inset 0 0 0 1px darken(rgb(34, 34, 34), 20%);
+//     text-shadow: 0 1px darken(rgb(55, 56, 55), 20%);
+//     display: inline-block;
+//     height: 0;
+//     position: absolute;
+//     bottom: 0;
+//     left: 0;
+//     right: 0;
+//     transition: 200ms;
+//     padding: 0 5px;
+//     text-align: center;
+//     overflow: hidden;
+// }
+// .magic-button:hover::after, .magic-button:active::after,
+// a[href$="#magic-button"]:hover::after, a[href$="#magic-button"]:active::after {
+//     height: 100%;
+//     padding: 0px;
+// }
+// .magic-button:active::after,
+// a[href$="#magic-button"]:active::after {
+//     background: darken(rgb(10, 11, 10), 10%);
+// }
 
 
 

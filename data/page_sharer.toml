@@ -33,13 +33,22 @@
   icon = "linkedin-in"
   enable = true
 
+# [[buttons]]
+#   id = "line"
+#   url = " https://social-plugins.line.me/lineit/share?text={title}%20{url}"
+#   title = "LINE"
+#   icon_pack = "fab"
+#   icon = "line"
+#   enable = true
+
+
 [[buttons]]
   id = "whatsapp"
   url = "https://web.whatsapp.com/send?text={title}%20{url}"
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "weibo"
@@ -47,7 +56,7 @@
   title = "Weibo"
   icon_pack = "fab"
   icon = "weibo"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "reddit"

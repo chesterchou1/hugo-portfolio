@@ -37,8 +37,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
+{{< callout note >}}
 Please note that this page is a work in progress. I'll be actively updating and adding content to this last part of club project. Some sections may be incomplete or under development. Still, I appreciate your patience and time to look around. Feel free to check back regularly for updates, and thanks for visiting!
+{{< /callout >}}
 
 
 
