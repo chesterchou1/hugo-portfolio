@@ -74,11 +74,21 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
+.about.avatar {
+  font-weight: 700;
+}
+
+
+
+
+
+
 .article-container {
   background-color: #fff;
   border-radius: 30px;
   margin-top: 1.2rem;
   margin-bottom: 1rem;
+  padding: 1rem 1rem 1rem 1rem;
 }
 
 .dark .article-container {
@@ -92,7 +102,8 @@ body {
 
 // custom footer color
 .page-footer {
-  // background-color: rgb(247, 250, 252);
+  background-color:  #fff;
+  margin-bottom: 5rem;
 }
 
 .dark .page-footer {
@@ -145,11 +156,13 @@ body {
   left: 0;
   z-index: 1000;
   padding: 0 1rem;
+  // padding: 15px 20px 15px 20px;
 }
 
 // custom section padding
 .home-section {
-  padding: 1rem 0;
+  // padding: 1rem 0;
+  padding: 2.5rem 2.5rem 2.5rem 2.5rem;
 }
 
 .home-section.wg-about-avatar {
@@ -185,10 +198,11 @@ ul.network-icon .big-icon {
 }
 
 .home-section > .content > :last-child {
-  margin-bottom: 0;
+  margin-bottom: 0em;
 }
 
 .home-section header {
+  // font-weight: 200;
   margin-bottom: 1em;
 }
 
@@ -250,6 +264,18 @@ ul.network-icon .big-icon {
     text-shadow: 0 1px 0 #cccccc, 0 2px 0 #cccccc, 0 3px 0 #cccccc, 0 4px 0 #cccccc, 0 5px 0 #cccccc, 0 6px 0 #cccccc, 0 7px 0 #cccccc, 0 8px 0 #cccccc, 0 9px 0 #cccccc, 0 50px 30px rgba(0, 0, 0, 0.3);
   }
 }
+@keyframes tracking-in-expand {
+  0% {
+    letter-spacing: -0.2em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 
 
 // Custom avatar size on homepage
@@ -265,15 +291,14 @@ ul.network-icon .big-icon {
     height: 520px;
     border-radius: 9999px;
     z-index:-1;
-
 }
 
 // Prevent stretching on About page with narrow container
 .wg-about .avatar {
   width: auto;
   height: auto;
-  max-width: 250px;
-  max-height: 250px;
+  max-width: 200px;
+  max-height: 200px;
 }
 
 // Smaller Name and Role text on About page than in homepage `about.avatar` widget
@@ -292,11 +317,20 @@ ul.network-icon .big-icon {
 }
 
 
-.wg-experience .card-title h3{
+// .wg-experience .card-title h3{
+//   font-size: 0.75rem;
+//   color: red;
+//   animation: tracking-in-expand 1s forwards;
+
+// }
+
+.wg-experience .card-title a{
+  font-weight: 400;
   font-size: 0.75rem;
-  animation: text-pop-up-top 1s forwards;
+  animation: tracking-in-expand .5s forwards;
 
 }
+
 
 .wg-education{
   font-size: 0.75rem;
