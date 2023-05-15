@@ -260,6 +260,14 @@ ul.network-icon .big-icon {
   max-height: 250px;
 }
 
+.avatar .bg-shape{
+    width: 520px;
+    height: 520px;
+    border-radius: 9999px;
+    z-index:-1;
+
+}
+
 // Prevent stretching on About page with narrow container
 .wg-about .avatar {
   width: auto;

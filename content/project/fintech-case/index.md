@@ -55,3 +55,8 @@ Strategy Analysis on SoFi’s Business Models
 
 <!-- <script async class="speakerdeck-embed" data-id="4e8126e72d853c0060001f97" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script> -->
 
+<object data="./pdf/sofi_demo.pdf" type="application/pdf" width="800px" height="450px">
+    <embed src="./pdf/sofi_demo.pdf">
+        <p>Demo Deck <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
