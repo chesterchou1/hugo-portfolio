@@ -432,7 +432,7 @@ ul.network-icon .big-icon {
 
 .dark .btn.btn-lg.active {
   color: #00FFFC;
-  background-color: #1f1235 !important;
+  background-color: rgb(31, 39, 51) !important;
   border-color: transparent;
   // border: none;
   // border: 0.1px solid #00FFFC;
@@ -440,7 +440,7 @@ ul.network-icon .big-icon {
   box-shadow: .5px 2.5px 0.5px .5px #00fffb27;
 }
 .dark .btn-toolbar .btn.btn-primary:hover {
-  background-color: #00fffc50 !important;
+  background-color: #00FFFb20 !important;
   border: none;
   border-color: transparent;
   border-radius: 1rem;
@@ -458,7 +458,7 @@ ul.network-icon .big-icon {
 
 .dark .btn-primary:not(:disabled):not(.disabled).active:focus, .dark .btn-primary:not(:disabled):not(.disabled):active:focus, .dark .show > .dark .btn-primary.dropdown-toggle:focus {
     // box-shadow: 0 0 0 0.01rem #86A8E7;
-  background-color: transparent !important;
+  background-color: #86a8e715 !important;
   border: none;
   border-radius: 1rem;
   border-color: transparent;
