@@ -4,8 +4,8 @@
 title: "Market Research, Automotive in TW"
 summary: "Automotive industry in TW, 2013-2023, using open data"
 authors: [Chester Chou]
-tags: ['Data analysis', 'Market research', 'R']
-categories: [Data Visualization]
+tags: ['Data analysis', 'Market research', 'R', 'ggplot2']
+categories: [Data Visualization, 'ggplot2']
 date: 2023-05-10T15:23:18+08:00
 
 # Optional external URL for project (replaces project detail page).
