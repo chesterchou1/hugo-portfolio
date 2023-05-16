@@ -13,5 +13,5 @@ Born and raised in Tainan, currently base in Taipei <br>
 Check out my [resumé](/about/) and portfolio below!
 
 
-{style="font-size: 1.5rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 20%, #FFA73D 30%, #FF7C00 60%, #FF2204 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+<!-- {style="font-size: 1.5rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 20%, #FFA73D 30%, #FF7C00 60%, #FF2204 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"} -->
 
