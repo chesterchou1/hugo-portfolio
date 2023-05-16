@@ -500,7 +500,7 @@ div.alert > div:first-child::before {
   top: -0.3rem;
   left: -2rem;
   font-size: 1.4rem;
-  color: #26547C;
+  color: #5b89df;
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   content: '\f05a';
@@ -508,6 +508,20 @@ div.alert > div:first-child::before {
   text-align: left;
 }
 
+
+.dark.article-style aside p::before,
+.dark.div.alert > .dark.div:first-child::before {
+  position: absolute;
+  top: -0.3rem;
+  left: -2rem;
+  font-size: 1.4rem;
+  color: #82cbff;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f05a';
+  width: 1rem;
+  text-align: left;
+}
 /* You can edit the borders and backgrounds here */
 
 .article-style div.notice warning{
@@ -524,12 +538,12 @@ div.alert > div:first-child::before {
 //   border-color: #0EAD69;
 // }
 
-.alert-warning {
-  // font-size: 0.1rem;
-  color: #cd0930;
-  background-color: #fff5f7;
-  border-color: #ff3860;
-}
+// .dark.alert-warning {
+//   // font-size: 0.1rem;
+//   color: #cd0930;
+//   background-color: #fff5f700;
+//   border-color: #ff3860;
+// }
 
 
 .card card-body{
@@ -642,25 +656,28 @@ div.alert > div:first-child::before {
 .alert {
   padding: 10px;
   margin-bottom: 10px;
+  // border: .005rem solid #86A8E7;
+  // border-radius: 0.8rem;
 }
 
-// .alert.success {
-//   background-color: #dff0d8;
-//   border: 1px solid #d0e9c6;
-//   color: #3c763d;
-// }
+.alert.success {
+  background-color: #dff0d8;
+  border: 1px solid #d0e9c6;
+  color: #3c763d;
+}
 
-// .alert.warning {
-//   background-color: #fcf8e3;
-//   border: 1px solid #faebcc;
-//   color: #8a6d3b;
-// }
+.alert.warning {
+  background-color: #fcf8e3;
+  border: 1px solid #faebcc;
+  color: #8a6d3b;
+}
 
-// .alert.error {
-//   background-color: #f2dede;
-//   border: 1px solid #ebccd1;
-//   color: #a94442;
-// }
+.alert.error {
+  background-color: #f2dede;
+  border: 1px solid #ebccd1;
+  color: #a94442;
+}
+
 
 .callout {
   padding: 10px;

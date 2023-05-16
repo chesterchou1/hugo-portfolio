@@ -38,8 +38,8 @@ url_video: ""
 slides: ""
 ---
 
-{{< callout type="warning" >}}
-Please note that this page is a work in progress. We are actively updating and adding content to provide you with the most comprehensive information possible. Some sections may be incomplete or under development. We appreciate your patience and understanding as we strive to deliver a valuable and enriching experience. Feel free to check back regularly for updates, and thank you for visiting!
+{{< callout >}}
+Please note that this page is a work in progress. I'm actively updating and adding content since some sections may be incomplete or under development.  Feel free to check back regularly for updates, and thank you for visiting!
 {{< /callout >}}
 
 > Recap from [previously](/project/tmba-1/): All above is just the beginning. What's really challenging is where the root cause of the problem is, and happen to be my very reason why I choose to do in the first place, and not thinking about personal interest or opportunity cost.
