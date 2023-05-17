@@ -14,10 +14,10 @@ social:
   - icon: facebook
     icon_pack: fab
     link: https://facebook.com/shutienchou
-  - icon: spotify
-    icon_pack: fab
-    link: https://open.spotify.com/user/chesterchourox
-    # link: about/#contact
+  # - icon: spotify
+  #   icon_pack: fab
+  #   link: https://open.spotify.com/user/chesterchourox
+  #   # link: about/#contact
 # interests:
 # - Marketing & Statistics
 # - Economics & Business strategy
@@ -63,10 +63,4 @@ Starting from data visualization, I discovered my strong interest in data analys
 
 <!-- {{< spoiler text="Download resumé as a pdf" >}} -->
 <!-- {{< /spoiler>}} -->
-
-
-<!-- {{< spoiler text="#Open to Work" >}}
-{{< icon name="download" pack="fas" >}}
-{{< staticref "media/CV/Resume_Chou_ShuTien.pdf" "newtab" >}}Download my Resumé(English){{< /staticref >}}
-{{< /spoiler>}}  -->
 
