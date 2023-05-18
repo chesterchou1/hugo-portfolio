@@ -4,7 +4,7 @@
 title: "Co-branding strategy evaluation: Co-branding or not and How to choose?"
 summary: "Applied Bayesian Statistics and Conjoint Analysis to evaluate the marketing strategy effectiveness of Co-branding"
 authors: [Chester Chou]
-tags: ['Data analysis', 'Quantitative marketing research', 'Design', 'Bayesian modeling', 'R']
+tags: ['Data analysis', 'Quantitative marketing research', 'Design', 'Bayesian modeling', 'R', 'Keynote']
 categories: [Data Analysis]
 date: 2023-05-09T23:34:22+08:00
 

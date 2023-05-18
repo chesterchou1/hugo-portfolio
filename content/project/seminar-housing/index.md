@@ -3,7 +3,7 @@
 title: "Does Schooling Area matter to the housing price?"
 summary: "Adopted the spatial variables into housing price model, using quantile regression to model"
 authors: [Chester Chou]
-tags: ['Data analysis', 'Empircal Economics Research','Stata','QGIS','GeoDa', 'R']
+tags: ['Data analysis', 'Empircal Economics Research','Stata','QGIS','GeoDa', 'R', 'Keynote']
 categories: [Data analysis]
 date: 2023-05-09T23:30:44+08:00
 

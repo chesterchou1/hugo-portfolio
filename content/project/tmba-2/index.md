@@ -1,8 +1,8 @@
 ---
-title: "Project TMBA Club Reorg Part II"
+title: "Project TMBA Part II, Club Development"
 summary: Introduction of the student club project includes department and resource development, project management, etc.
 authors: [Chester Chou]
-tags: ['Marketing communication', 'Project management', 'Club leadership', 'Resource development']
+tags: ['Marketing communication', 'Project management', 'Leadership', 'Resource development', 'Student Club']
 categories: [TMBA]
 date: 2023-05-09T00:17:16+08:00
 

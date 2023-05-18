@@ -4,7 +4,7 @@
 title: "Fintech Case Study: Business Model & Strategy Analysis"
 summary: "Analyzing on the business model of a US FinTech company SoFi, from neobank to a one-stop financial service provider, evaluate their strategies in different stages"
 authors: [Chester Chou]
-tags: ['Slide','Design','Strategic planning','Business analysis','Financial analysis']
+tags: ['Slide','Design','Strategic planning','Business analysis','Financial analysis', 'Keynote']
 categories: [Slide decks, 'Case study']
 date: 2023-05-09T00:17:57+08:00
 
