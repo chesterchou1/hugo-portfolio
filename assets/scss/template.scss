@@ -122,6 +122,15 @@ body {
   padding: 15px 20px 15px 20px;
 }
 
+.dark .card-simple {
+  background: rgb(31, 39, 51);
+  box-shadow: none;
+  border: 1px solid rgb(31, 39, 51);
+  border-radius: 30px;
+  margin-top: 20px;
+  padding: 15px 20px 15px 20px;
+}
+
 .card {
   margin-bottom: 1.5rem;
   overflow: hidden;
@@ -146,11 +155,7 @@ body {
 //   border-radius: 50px; 
 //   margin-top: 0rem;
 //   padding: .5rem .5rem 1rem 1rem;
-// }
-
-.dark .card-simple {
-  background: rgb(31, 39, 51);
-}
+// 
 
 // no navbar shadow
 .navbar {
@@ -182,15 +187,22 @@ ul.network-icon .big-icon {
   font-size: 1.5rem;
 }
 
-.dark .portrait-title h3 {
-  color: #fff;
-  font-weight: 400;
-}
+
+// .dark .portrait-title h1 {
+//   color: #fff;
+//   // color: red($color: #000000);
+//   font-weight: 400;
+// }
 
 .dark .portrait-title h2 {
   color: #fff;
   font-weight: 500;
+}
 
+.dark .portrait-title h3 {
+  color: #fff;
+  // color: red($color: #000000);
+  font-weight: 400;
 }
 
 
@@ -275,7 +287,6 @@ ul.network-icon .big-icon {
     opacity: 1;
   }
 }
-
 
 // Custom avatar size on homepage
 .avatar {
