@@ -714,7 +714,7 @@ div.alert > div:first-child::before {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  padding: 4px 4px 4px 4px;
+  padding: 5px 5px 5px 5px;
   gap: 10px;
 
   width: 320px;
@@ -723,8 +723,8 @@ div.alert > div:first-child::before {
  
   background: #bbd3ff31;
   // border: 0.01px solid #86A8E7;
-  box-shadow: 2.5px 7.5px 0.5px .5px #86A8E7;
-  border-radius: 2px;
+  box-shadow: 3px 2px 0px 0px #86A8E7;
+  border-radius: 10px;
 
 
   /* Inside auto layout */
@@ -751,7 +751,7 @@ div.alert > div:first-child::before {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  padding: 4px 4px 4px 4px;
+  padding: 5px 5px 5px 5px;
   gap: 10px;
 
   width: 320px;
@@ -760,8 +760,8 @@ div.alert > div:first-child::before {
 
   background: #00FFFb20;
   // border: 0.01px solid #86A8E7;
-  box-shadow: 2.5px 7.5px 0.5px .5px #00fffb27;
-  border-radius: 2px;
+  box-shadow: 3px 2px 0px 0px #00fffb27;
+  border-radius: 10px;
 
 
   /* Inside auto layout */
