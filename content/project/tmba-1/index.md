@@ -22,7 +22,7 @@ During my time in grad school, I had the opportunity to join two student clubs, 
 
 <!-- Though now that I've graduated for almost 2 years. I still found myself keep looking back at what I did at that time. It gives me some sort of self-assurance, determination to keep going, doing what seems right for me, and sometimes I did find different perspectives after having some real work practices. -->
 
-### **What I know I was doing (and it's the right thing to do)**
+#### **What I know I was doing (and it's the right thing to do)**
 
 Right from the beginning, when I was as the only person in charge of the strategy and marketing department, I decided to take a different marketing strategy. First, I knew that if I wanted to make a real impact, I had to make some organizational adjustments. Second, If I didn't do this, then no one would do, and this department will discontinue. So The whole point is to restructured and redecorated the Strategy & Marketing department, which was open officially to all club members and all students. I strongly believed that this move would benefit the entire organization, not just from an operational standpoint but also in terms of talent competition. So I put forward several plans, which were reviewed, revised, and executed on a bi-weekly basis.
 
@@ -60,9 +60,9 @@ At its core, marketing is about creating value, addressing needs, and fulfilling
 
 ![](./image/p1.png)
 
-### **The real struggle and the real challenges (What I knew I was doing but not sure how it will go)**
+#### **The real struggle and the real challenges (What I knew I was doing but not sure how it will go)**
 
-All of the above mentioned efforts were just the beginning. It took me about three months, which was my entire summer vacation in 2020, then I'm able to move forward and address the root cause of the problem. This was the very reason I had chosen to embark on this journey, where personal interests or opportunity costs didn't factor too much into my decision-making process. See [next](/project/tmba-2/).
+All these efforts mentioned above were just the beginning. Things seemed starting to take off. I've reached out to some early members of marketing department, gaining some positive feedbacks from alumni and peers, showing their willingness to help. At this time, It already took me about three months, which was my entire summer vacation in 2020, then I'm able to move forward and address the root cause of the problem. This was the very reason I had chosen to embark on this journey, where personal interests or opportunity costs didn't factor too much into my decision-making process. See [next](/project/tmba-2/).
 
 
-[^1]: Time and energy are limited resources, and it's understandable that individuals who were initially committed to the club might have to reevaluate their priorities when they secure internships or other opportunities. While it's not fair to blame them for making decisions that are in their best interest, it's important to know the potential harm it can cause to the club. When dedicated members shift their focus away from the club, it can impact the club's overall progress and undermine its ability to achieve its goals. Thus, finding a balance between individual pursuits and collective club objectives is crucial for the long-term sustainability and success of the organization.
+[^1]: Time and energy are limited resources, and it's understandable that individuals who were initially committed to the club might have to reevaluate their priorities when they secure internships or other opportunities. While it's not fair to blame them for making decisions that are in their best interest, it's important to know the potential harm it can cause to the club. When dedicated members shift their focus away from the club, it can impact the club's overall progress and undermine its ability to achieve its goals. Thus, finding a balance between individual pursuits and collective club objectives is crucial for the long-term sustainability and success of the organization
