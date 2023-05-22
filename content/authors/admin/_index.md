@@ -17,7 +17,7 @@ social:
   # - icon: spotify
   #   icon_pack: fab
   #   link: https://open.spotify.com/user/chesterchourox
-  #   # link: about/#contact
+    # link: about/#contact
 # interests:
 # - Marketing & Statistics
 # - Economics & Business strategy
