@@ -1,5 +1,5 @@
 ---
-title: "Project TMBA Part II, Club Development"
+title: "Project TMBA Part II, Department Development"
 summary: Introduction of the student club project includes department and resource development, project management, etc.
 authors: [Chester Chou]
 tags: ['Marketing communication', 'Project management', 'Leadership', 'Resource development', 'Student Club']
@@ -58,7 +58,10 @@ This dynamic creates a challenge in managing brand positioning and establishing 
 ![](./image/p1.png)
 
 
+
 ### **The Results**
+
+![](./image/p3.png)
 
 ✅ Continued running the department, a big win <br>
 ✅ Then it was handed over to 3 better talents <br>
