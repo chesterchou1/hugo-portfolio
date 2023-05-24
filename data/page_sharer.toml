@@ -18,6 +18,7 @@
   enable = true
 
 [[buttons]]
+
   id = "email"
   url = "mailto:?subject={title}&body={url}"
   title = "Email"
@@ -40,7 +41,6 @@
 #   icon_pack = "fab"
 #   icon = "line"
 #   enable = true
-
 
 [[buttons]]
   id = "whatsapp"
