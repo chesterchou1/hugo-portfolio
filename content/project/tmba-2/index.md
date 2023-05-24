@@ -61,7 +61,7 @@ This dynamic creates a challenge in managing brand positioning and establishing 
 
 ### **The Results**
 
-![](./image/p3-dark.png)
+![](./image/tmba-dark.png)
 
 ✅ Continued running the department, a big win <br>
 ✅ Then it was handed over to 3 better talents <br>
