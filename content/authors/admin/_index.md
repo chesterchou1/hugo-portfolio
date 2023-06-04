@@ -2,7 +2,7 @@
 title: "Chester Chou"
 role: Business Analyst, Commercial Designer
 avatar_filename: avatar.jpeg
-bio: I create contents in the business world
+bio: I love creating contents in the business world
 social:
   - icon: envelope
     icon_pack: fas
@@ -14,10 +14,9 @@ social:
   - icon: facebook
     icon_pack: fab
     link: https://facebook.com/shutienchou
-  # - icon: spotify
-  #   icon_pack: fab
-  #   link: https://open.spotify.com/user/chesterchourox
-    # link: about/#contact
+  - icon: soundcloud
+    icon_pack: fa
+    link: https://soundcloud.com/chesterchou
 # interests:
 # - Marketing & Statistics
 # - Economics & Business strategy
