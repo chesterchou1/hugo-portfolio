@@ -843,3 +843,30 @@ div.alert > div:first-child::before {
 // .cta-button.danger {
 //   background-color: #dc3545;
 // }
+
+article div.article-container .article-style blockquote {
+  color: #86A8E7;
+  background-color: #fff;
+  content: close-quote;
+}
+
+.dark article div.article-container .article-style blockquote {
+  color: #fff;
+  background-color: #6c757d;
+  text-indent:200;
+  content: close-quote;
+}
+
+
+
+.dark .article-container .article-style blockquote {
+  text-color: red;
+}
+
+
+
+.article-container {
+    max-width: 820px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
