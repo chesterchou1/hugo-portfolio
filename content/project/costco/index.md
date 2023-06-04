@@ -18,7 +18,7 @@ image:
   filename: cover-unsplash.jpg
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: TRUE
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -111,6 +111,9 @@ After acquiring members, the second stage involves addressing member retention, 
 
 From a numerical perspective, Costco truly sets an example in this regard. Their customer loyalty is high, and their member demographics show higher levels of education and income compared to competitors. In conclusion, Costco's members are of high value and exhibit strong loyalty.
 
+Costco fanboy did crazy stuffs[^7]
+![Source: INSIDER](./fan.png)
+
 This aspect is related to the internal setup mentioned earlier. How does Costco achieve internal consistency? Through their store design, which includes high ceilings, rugged decor, warehouse-style shelves, and hanging spotlights. Within limited space that is typically smaller than the industry average, Costco employs a display approach that showcases a carefully selected assortment of products stacked in bulk. This emphasizes the "Best Deal" concept, making customers feel like every item has been handpicked and their shopping behavior is taken seriously. This is also why Costco verifies membership upon entry and has staff at the exit to mark the receipts—a ritual essential to the Costco shopping experience.
 
 Improving customer experience doesn't necessarily require a focus on premium elements. In this case, we can see the importance and necessity of internal consistency. While adhering to a low-cost strategy, Costco embodies the role of a trustworthy salesperson who can deliver value and create a sense of security. Costco relies on word-of-mouth marketing derived from this down-to-earth shopping experience.
@@ -140,3 +143,4 @@ The effects of improvement in any of these directions may manifest over multiple
 
 [^3]: It was during that time when Jeff Bezos was still in college.
 [^4]: based on the case information: Costco Warehouse ~4,000；typical supermarket ~30,000SKUs，Discounter like Kmart 40,000-60,000SKUs;Supercenter ~200,000SKUs
+[^7]: https://www.businessinsider.com/costco-obsessed-man-has-a-kirkland-signature-tattoo-2019-9
