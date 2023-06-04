@@ -29,7 +29,7 @@ content:
     - name: All
       tag: '*'
     - name: Business
-      tag: Marketing communication, Project managment
+      tag: Marketing communication, Project managment, Case study
     - name: Data Analysis
       tag: Data analysis, R
     - name: Design

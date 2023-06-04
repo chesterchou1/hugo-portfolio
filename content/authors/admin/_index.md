@@ -15,7 +15,7 @@ social:
     icon_pack: fab
     link: https://facebook.com/shutienchou
   - icon: soundcloud
-    icon_pack: fa
+    icon_pack: fab
     link: https://soundcloud.com/chesterchou
 # interests:
 # - Marketing & Statistics
