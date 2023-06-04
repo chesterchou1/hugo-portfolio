@@ -47,7 +47,7 @@ This article aims to dive into the successful business model of Costco Wholesale
 
 Whether in physical brick-and-mortar retail or online e-commerce, both serve as different manifestations of the distribution industry, ultimately acting as intermediaries to efficiently match supply and demand. From this point, Costco is a platform business for me, only in the form of early retail channel. So the Costco case holds valuable benckmarks for the retail industry's business models.
 
-While studying the Costco Companies, Inc. case [1], I was particularly intrigued by the source of its competitive advantage. Based on my knowledge of management studies, maintaining a competitive advantage typically stems from either product or service innovation or through the specialized allocation of marketing assets. 
+While studying the Costco Companies, Inc. case, I was particularly intrigued by the source of its competitive advantage. Based on my knowledge of management studies, maintaining a competitive advantage typically stems from either product or service innovation or through the specialized allocation of marketing assets. 
 
 However, before establishing its own sales capabilities to drive private label brands, Costco initially sold mostly non-owned products and did not offer any groundbreaking services or establish a seemingly unreplicable model for newcomers. Costco's operating costs, compared to its competitors, were notably lower, and their marketing tactics appeared "ordinary." This raises the question of how Costco generates profits and achieves such a significant scale.
 
@@ -84,13 +84,13 @@ Costco leverages its scale advantage to consistently achieve a low-cost strategy
 
 For these types of suppliers, gaining access to such a distribution channel is akin to breaking free from being placed alongside competitors on shelves, reducing the uncertainty of leaving the choice in the hands of consumers. This aspect significantly influences the internal and external configurations of the company, including sales models, marketing strategies, and organizational staffing internally, as well as response options to competitors' strategies or changes in consumer preferences externally.
 
-Within the context of penetrating the market with a low-cost strategy and achieving high product turnover through low SKU, the profile of Costco as a "respected purchasing agent" is becoming increasingly clear. To successfully fulfill this role, several key competencies come into play, namely, "product selection capability" and "persuasiveness."
+Within the context of penetrating the market with a low-cost strategy and achieving high product turnover through low SKU, the brand profile of Costco as a "respected purchasing agent" is becoming increasingly clear. To successfully fulfill this role, several key competencies come into play, namely, "product selection capability" and "persuasiveness."
 
 These two critical competencies, product selection capability and persuasiveness, give rise to a series of challenges such as whether they can be replicated or surpassed by competitors. This determines Costco's position in physical retail and can also be used to assess its entry strategies in international markets.
 
 ### **The Model and its Flow**
 
-### **Acquisition**
+### Acquisition: How customers land in Costco membership?
 
 The initial challenge in the membership subscription model is: **How to incentivize consumers to become members and acquire customers effectively?**
 
@@ -102,7 +102,7 @@ In reality, not every customer exhibits a mindset of seeking bargains, due to cu
 
 In fact, the revenue from membership fees does not lead to significant gains or losses for Costco. Membership fees contribute to approximately 2% of its total revenue and less than 20% of its overall profit. Although the financial reports show a higher figure for membership fee revenue (around £3 billion) compared to pre-tax profit from sales activities (which is approximately £1 billion after deducting product costs and SG&A expenses), this does not imply that Costco's economic logic is supported by membership fees alone.
 
-### **Activation, Retention & Referral**
+### **Activation, Retention & Referral: How customer engage and how it become a brand asset to the company**
 
 After acquiring members, the second stage involves addressing member retention, which refers to how Costco can continuously engage customers, retain them, and even encourage them to refer others. Customer churn is a common issue in any industry, especially in the competitive retail environment. According to a report by Morgan Stanley, there is significant overlap between Amazon Prime and Costco members, with nearly half of the individuals holding both memberships. This coexistence represents an exceptional case of extreme differentiation within the same industry. In general, it's a situation of "kill or be killed," where customer engagement and churn rates serve as signals of competitive dynamics within the company.
 
@@ -111,14 +111,18 @@ After acquiring members, the second stage involves addressing member retention, 
 
 From a numerical perspective, Costco truly sets an example in this regard. Their customer loyalty is high, and their member demographics show higher levels of education and income compared to competitors. In conclusion, Costco's members are of high value and exhibit strong loyalty.
 
-Costco fanboy did crazy stuffs[^7]
+Costco fanboy did crazy stuffs. Not only did he get a tattoo of Kirkland Signature brand on his arm, He also had his birthday party in the Costco food court in 2015 and once took a date to the store. [^7]
 ![Source: INSIDER](./fan.png)
 
-This aspect is related to the internal setup mentioned earlier. How does Costco achieve internal consistency? Through their store design, which includes high ceilings, rugged decor, warehouse-style shelves, and hanging spotlights. Within limited space that is typically smaller than the industry average, Costco employs a display approach that showcases a carefully selected assortment of products stacked in bulk. This emphasizes the "Best Deal" concept, making customers feel like every item has been handpicked and their shopping behavior is taken seriously. This is also why Costco verifies membership upon entry and has staff at the exit to mark the receipts—a ritual essential to the Costco shopping experience.
+This extreme case is somehow related to the internal setup mentioned earlier.   
+
+How does Costco achieve internal consistency? Through their store design, which includes high ceilings, rugged decor, warehouse-style shelves, and hanging spotlights. Within limited space that is typically smaller than the industry average, Costco employs a display approach that showcases a carefully selected assortment of products stacked in bulk. This emphasizes the "Best Deal" concept, making customers feel like every item has been handpicked and their shopping behavior is taken seriously. This is also why Costco verifies membership upon entry and has staff at the exit to mark the receipts—a ritual essential to the Costco shopping experience.
+
+The whole setting sticks to Costco's role and contradict to the brand marketing argument towards higher customer loyalty would correlate to premium branding strategy. See how Costco did, it's a lower-end premium vibe, but it works so well on the metrics and the fanboy story. 
 
 Improving customer experience doesn't necessarily require a focus on premium elements. In this case, we can see the importance and necessity of internal consistency. While adhering to a low-cost strategy, Costco embodies the role of a trustworthy salesperson who can deliver value and create a sense of security. Costco relies on word-of-mouth marketing derived from this down-to-earth shopping experience.
 
-From what we've seen so far, the underlying business logic aligns with the Pirate Metrics model in digital marketing (AARRR model). If we were to apply this model to Costco, it would be an optimized version. Unlike the traditional Pirate Metrics model, which aims for revenue from customer acquisition to the final stage, with each marketing campaign having a limited impact, Costco's model operates within a membership system, creating a positive cycle that helps in the early stages of the conversion funnel (see diagram below).
+From what we've seen so far, the underlying business logic aligns with the Pirate model(AARRR model). If we were to apply this model to Costco, it would be an optimized version. Unlike the traditional Pirate Metrics model, which aims for revenue from customer acquisition to the final stage, with each marketing campaign having a limited impact, Costco's model operates within a membership system, creating a positive cycle that helps in the early stages of the conversion funnel (see diagram below).
 
 The last "R" in the model, in my interpretation, stands for "Raise" and "Recycle." What does this entail? We can discuss several directions:
 
