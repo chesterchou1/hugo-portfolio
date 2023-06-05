@@ -24,7 +24,7 @@ During my time in grad school, I had the opportunity to join two student clubs, 
 
 #### **What I know I was doing (and it's the right thing to do)**
 
-Right from the beginning, when I was as the only person in charge of the strategy and marketing department, I decided to take a different marketing strategy. First, I knew that if I wanted to make a real impact, I had to make some organizational adjustments. Second, If I didn't do this, then no one would do, and this department will discontinue. So The whole point is to restructured and redecorated the Strategy & Marketing department, which was open officially to all club members and all students. I strongly believed that this move would benefit the entire organization, not just from an operational standpoint but also in terms of talent competition. So I put forward several plans, which were reviewed, revised, and executed on a bi-weekly basis.
+Right from the beginning, when I was as the only person in charge of the strategy and marketing department, I decided to take a different path. First, I knew that if I wanted to make a real impact, I had to make some organizational adjustments. Second, If I didn't do this, then no one would do, and this department will discontinue. So The whole point is to restructured and redecorated the Strategy & Marketing department, which was open officially to all club members and all students. I strongly believed that this move would benefit the entire organization, not just from an operational standpoint but also in terms of talent competition. So I put forward several plans, which were reviewed, revised, and executed on a bi-weekly basis.
 
 ### **Problem definition:** 
 #### **The Organization Problems and Risks**
