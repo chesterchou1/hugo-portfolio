@@ -4,8 +4,8 @@
 title: "The Sustainable Model of Costco Wholesale Corporation"
 summary: "An analytical perspective on the case of Costco"
 authors: [Chester Chou]
-tags: ['Case study']
-categories: ['Business']
+tags: ['Case study', 'case study', 'Business model','MNE']
+categories: ['Business', 'Case study']
 date: 2023-06-04T15:24:17+08:00
 
 # Optional external URL for project (replaces project detail page).
