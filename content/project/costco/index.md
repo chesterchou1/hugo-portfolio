@@ -41,13 +41,15 @@ url_video: ""
 slides: ""
 ---
 
+{{< callout >}}
+This article aims to dive into the successful business model of Costco Wholesale Corporation, drawing some personal insights or business logic from the case study of Costco Companies, Inc., to see why and how it works, and what makes it keep working.
+{{< /callout >}}
+
 ### **Introduction**
 
-This article aims to dive into the successful business model of Costco Wholesale Corporation, drawing some personal insights or business logic from the case study of Costco Companies, Inc. [^1], to see why and how it works, and what makes it keep working.
+Whether in physical brick-and-mortar retail or online e-commerce, both serve as different manifestations of the distribution industry, ultimately acting as intermediaries to efficiently match supply and demand. From this point, Costco is a platform business for me, only in the form of early retail channel. So the Costco case holds valuable benchmarks for the retail industry's business models.
 
-Whether in physical brick-and-mortar retail or online e-commerce, both serve as different manifestations of the distribution industry, ultimately acting as intermediaries to efficiently match supply and demand. From this point, Costco is a platform business for me, only in the form of early retail channel. So the Costco case holds valuable benckmarks for the retail industry's business models.
-
-While studying the Costco Companies, Inc. case, I was particularly intrigued by the source of its competitive advantage. Based on my knowledge of management studies, maintaining a competitive advantage typically stems from either product or service innovation or through the specialized allocation of marketing assets. 
+While studying the Costco Companies, Inc. case[^1], I was particularly intrigued by the source of its competitive advantage. Based on my knowledge of management studies, maintaining a competitive advantage typically stems from either product or service innovation or through the specialized allocation of marketing assets. 
 
 However, before establishing its own sales capabilities to drive private label brands, Costco initially sold mostly non-owned products and did not offer any groundbreaking services or establish a seemingly unreplicable model for newcomers. Costco's operating costs, compared to its competitors, were notably lower, and their marketing tactics appeared "ordinary." This raises the question of how Costco generates profits and achieves such a significant scale.
 
@@ -57,13 +59,11 @@ However, before establishing its own sales capabilities to drive private label b
 
 Costco employs a membership fee system, also known as a *subscription model*. Membership-based businesses were not unique to Costco; In fact, in the United States, many traditional industries, like gyms, clubs, adopted this pure subscription-based charging model during the same period. Nowadays, numerous platforms and software companies derive benefits from this model, especially the freemium model derived from SaaS (Software as a Service). However, at that time, the rules only allowed paying members to be eligible for purchasing products or services, typically with the option to renew on an annual basis. Several membership plans were available for consumers to choose from.
 
-Even in the 1980s, Costco did not adopt a novel business model that required the possession of scarce or irreplaceable resources to disrupt the industry's game rules.[^3] However, one advantageous aspect was that the founders had prior experience and knowledge in a similar industry, which they brought to Costco.
-
-Looking from the perspective of the external competitive environment, is it merely due to the high imitation cost of switching to this different operating model that competitors who adopted different operating methods were unwilling to change (either difficult or did not see the need to change), allowing Costco to have room for competitive growth?
+Even in the 1980s, Costco did not adopt a novel business model that required the possession of scarce or irreplaceable resources to disrupt the industry's game rules, like e-commerce platforms.[^3] One advantageous aspect can be found in the case was the founders had prior experience and knowledge in a similar industry, which they brought to Costco. Too simple for me to believe. While looking from the external competitive environment. Is it merely due to the high imitation cost of switching to this different operating model, so that competitors who were adopting different operating methods were less likely to change? (either difficult or did not see the need to change). This was what gave Costco room for competitive growth?
 
 #### The stable cash flows from membership help achieve the great expansion
 
-According to the information provided in the case, when Costco was established for 15 years, its global store count reached 278, with coverage in half of the states in the United States. It also began expanding to the United Kingdom and Asian countries. By the end of 2018, the global operation had grown to 782 stores. Despite the competitive pressure from e-commerce leader Amazon, the number of stores added after 2011 was still 190. Although the expansion was not predominantly focused on the Americas, this figure roughly maintained an average annual expansion rate of 15 to 20 stores. In other words, Costco successfully opened at least one store globally every month. This number is quite astonishing to me.
+*Rome wasn't built in a day*. So did Costco's success. According to the information provided in the case, when Costco was established for 15 years, its global store count reached 278, with coverage in half of the states in the United States. It also began expanding to the United Kingdom and Asian countries. By the end of 2018, the global operation had grown to 782 stores. Despite the competitive pressure from e-commerce leader Amazon, the number of stores added after 2011 was still 190. Although the expansion was not predominantly focused on the Americas, this figure roughly maintained an average annual expansion rate of 15 to 20 stores. In other words, Costco successfully opened at least one store globally every month. This number is quite astonishing to me.
 
 The IKEA and Ingvar Kamprad case presents a similar situation where the rate of store expansion likely represents a strong internationalization strategy. To continuously achieve strategic goals, companies must have corresponding organizational structures and resources. IKEA's approach involves dividing into expansion and operation groups, with the expansion group completing phase-specific tasks before transferring them to the operation group.
 
@@ -76,8 +76,13 @@ A larger scale represents stronger bargaining power with upstream suppliers. Str
 
 Another item in the same formula that can increase the target ROE is the asset turnover rate. By efficiently utilizing assets in sales, even in the case of low-profit margins, ROE can be increased. Compared to its competitors, Costco's sales profit margin is notably low, and it becomes even lower when excluding private label brands. The factor that supports Costco in achieving its scale is its high turnover rate.
 
+Above is the business logic under the hood.
+
+When a business want to make money from the membership fee. It has to consider three things to maximize: its amount of membership fee, the member size and the longevity of the membership. However, membership is something that a business naturally put a filter on its total addressable market. It should define who are the customers, and what's the privileges or perks they'll have.        
+
+
 ### The Unique Setting
-#### Product, 
+#### Product, lower SKU
 
 What makes Costco's approach unique is that "scale" is not solely measured by the absolute"purchasing quantity". In terms of total purchasing volume, Costco may not necessarily exceed larger retail leaders like Walmart, Target or so. However, Costco's key layout for achieving "scale" lies in its **low Stock Keeping Unit (SKU) setting**, giving it a relative advantage in specialized specifications. [^4]
 
@@ -105,9 +110,10 @@ However, Costco's intention to expand its scale does not stop at this stage, whe
 
 In reality, not every customer exhibits a mindset of seeking bargains, due to customer heterogeneity. Yet, if we make the extreme assumption that every customer subscribes and makes purchasing decisions based on this mindset of "rationality," Costco would incur losses with every membership sold. So, why would they want to enlarge their market and incur even more losses? The reason Costco's business model is referred to as a "**Loss Leader Model**" lies in this aspect. There are always a few specially priced items that attract customers and make it irresistible for them not to shop or continue their membership.
 
-In fact, the revenue from membership fees does not lead to significant gains or losses for Costco. Membership fees contribute to approximately 2% of its total revenue and less than 20% of its overall profit. Although the financial reports show a higher figure for membership fee revenue (around £3 billion) compared to pre-tax profit from sales activities (which is approximately £1 billion after deducting product costs and SG&A expenses), this does not imply that Costco's economic logic is supported by membership fees alone.
+In fact, the revenue from membership fees does not lead to significant gains or losses for Costco. Membership fees contribute to approximately 2% of its total revenue and less than 20% of its overall profit. Although the financial reports show a higher figure for membership fee revenue (around 3 billion USD) compared to pre-tax profit from sales activities (which is approximately 1 billion USD after deducting product costs and SG&A expenses), this does not imply that Costco's economic logic is supported by membership fees alone.
 
-### **Activation, Retention & Referral: How customer engage and how it become a brand asset to the company**
+### Activation, Retention & Referral
+#### **How customer engage and how it become a brand asset to the company?**
 
 After acquiring members, the second stage involves addressing member retention, which refers to how Costco can continuously engage customers, retain them, and even encourage them to refer others. Customer churn is a common issue in any industry, especially in the competitive retail environment. According to a report by Morgan Stanley, there is significant overlap between Amazon Prime and Costco members, with nearly half of the individuals holding both memberships. This coexistence represents an exceptional case of extreme differentiation within the same industry. In general, it's a situation of "kill or be killed," where customer engagement and churn rates serve as signals of competitive dynamics within the company.
 
