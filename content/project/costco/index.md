@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Sustainable Model of Costco Wholesale Corporation"
+title: "The Elegant, Sustainable Model of Costco Wholesale Corporation"
 summary: "An analytical perspective on the case of Costco"
 authors: [Chester Chou]
 tags: ['Case study', 'case study', 'Business model','MNE']
@@ -51,7 +51,9 @@ While studying the Costco Companies, Inc. case, I was particularly intrigued by 
 
 However, before establishing its own sales capabilities to drive private label brands, Costco initially sold mostly non-owned products and did not offer any groundbreaking services or establish a seemingly unreplicable model for newcomers. Costco's operating costs, compared to its competitors, were notably lower, and their marketing tactics appeared "ordinary." This raises the question of how Costco generates profits and achieves such a significant scale.
 
-### **Membership is one of the strategic key, but not the whole picture of model sustainability**
+### Membership
+
+#### **Membership is one of the strategic key, but not the whole picture of model sustainability**
 
 Costco employs a membership fee system, also known as a *subscription model*. Membership-based businesses were not unique to Costco; In fact, in the United States, many traditional industries, like gyms, clubs, adopted this pure subscription-based charging model during the same period. Nowadays, numerous platforms and software companies derive benefits from this model, especially the freemium model derived from SaaS (Software as a Service). However, at that time, the rules only allowed paying members to be eligible for purchasing products or services, typically with the option to renew on an annual basis. Several membership plans were available for consumers to choose from.
 
@@ -59,7 +61,7 @@ Even in the 1980s, Costco did not adopt a novel business model that required the
 
 Looking from the perspective of the external competitive environment, is it merely due to the high imitation cost of switching to this different operating model that competitors who adopted different operating methods were unwilling to change (either difficult or did not see the need to change), allowing Costco to have room for competitive growth?
 
-### The stable cash flows from membership help achieve the great expansion
+#### The stable cash flows from membership help achieve the great expansion
 
 According to the information provided in the case, when Costco was established for 15 years, its global store count reached 278, with coverage in half of the states in the United States. It also began expanding to the United Kingdom and Asian countries. By the end of 2018, the global operation had grown to 782 stores. Despite the competitive pressure from e-commerce leader Amazon, the number of stores added after 2011 was still 190. Although the expansion was not predominantly focused on the Americas, this figure roughly maintained an average annual expansion rate of 15 to 20 stores. In other words, Costco successfully opened at least one store globally every month. This number is quite astonishing to me.
 
@@ -74,23 +76,26 @@ A larger scale represents stronger bargaining power with upstream suppliers. Str
 
 Another item in the same formula that can increase the target ROE is the asset turnover rate. By efficiently utilizing assets in sales, even in the case of low-profit margins, ROE can be increased. Compared to its competitors, Costco's sales profit margin is notably low, and it becomes even lower when excluding private label brands. The factor that supports Costco in achieving its scale is its high turnover rate.
 
-### The Unique Setting: Low SKU
+### The Unique Setting
+#### Product, 
 
 What makes Costco's approach unique is that "scale" is not solely measured by the absolute"purchasing quantity". In terms of total purchasing volume, Costco may not necessarily exceed larger retail leaders like Walmart, Target or so. However, Costco's key layout for achieving "scale" lies in its **low Stock Keeping Unit (SKU) setting**, giving it a relative advantage in specialized specifications. [^4]
 
-<!-- Costco utilizes this scale advantage to consistently pursue -->
+> Significantly Lower SKU is the "less is more" philosophy in the retail game.  
 
 Costco leverages its scale advantage to consistently achieve a low-cost strategy and fulfill its promises to customers. From the perspective of both retailers and suppliers, Costco's low SKU setting allows it to maintain strong bargaining power and collaborative relationships, even with weaker brands. 
 
 For these types of suppliers, gaining access to such a distribution channel is akin to breaking free from being placed alongside competitors on shelves, reducing the uncertainty of leaving the choice in the hands of consumers. This aspect significantly influences the internal and external configurations of the company, including sales models, marketing strategies, and organizational staffing internally, as well as response options to competitors' strategies or changes in consumer preferences externally.
 
+#### Branding, one-of-a-kind positioning
 Within the context of penetrating the market with a low-cost strategy and achieving high product turnover through low SKU, the brand profile of Costco as a "respected purchasing agent" is becoming increasingly clear. To successfully fulfill this role, several key competencies come into play, namely, "product selection capability" and "persuasiveness."
 
 These two critical competencies, product selection capability and persuasiveness, give rise to a series of challenges such as whether they can be replicated or surpassed by competitors. This determines Costco's position in physical retail and can also be used to assess its entry strategies in international markets.
 
 ### **The Model and its Flow**
 
-### Acquisition: How customers land in Costco membership?
+### Acquisition 
+#### How customers land in Costco membership?
 
 The initial challenge in the membership subscription model is: **How to incentivize consumers to become members and acquire customers effectively?**
 

@@ -14,7 +14,10 @@ image:
   preview_only: true
 ---
 
-> For those who are unfamiliar with the student club, TMBA, it is not unusual. TMBA is an academic club that caters to business school students and has been in operation for over 20 years. Many of its alumni have gone on to pursue careers in the financial industry, which has been one of the most popular career choices over the past few decades. Due to its location, the majority of club members come from prestigious universities in Taipei City, such as NTU and NCCU.
+{{< callout >}}
+For those who are unfamiliar with the student club, TMBA, it is not unusual. TMBA is an academic club that caters to business school students and has been in operation for over 20 years. Many of its alumni have gone on to pursue careers in the financial industry, which has been one of the most popular career choices over the past few decades. Due to its location, the majority of club members come from prestigious universities in Taipei City, such as NTU and NCCU.
+{{< /callout >}}
+
 
 ### **Introduction**
 
