@@ -27,13 +27,21 @@ status:
   icon: ☕️
 ---
 
-I like to create/make stuffs, and quite enjoy the process of crafting.
+After completing my business school journey, I set my sights on opportunities that could provide me with a deeper understanding of the "big picture." Instead of following my supposedly paths of marketing or data analysis, I chose a different route.
 
-Starting from data visualization, I discovered my strong interest in data analysis in senior year of college. My growing passion has driven me to a wide range of interesting related topics like programming languages, statistics and data reporting skills. This is where I find the "perfect sweet spot" between business and design.  <br>
+Entering the world of e-commerce, I discovered a strong interest in drawing insights from business-related information. In this realm, there are no clear-cut right or wrong answers, but rather, it's the intricacies of people's mindsets, actions, and thoughts that make things hard to plan, execute and manage. Throughout this journey, I learned so much invaluable lessons from my direct manager, Jason.
 
+Later, I ventured into the financial industry, immersing myself in areas that didn't necessarily align with my passion but were undeniably crucial – investments and capital markets. While the experience was challenging and led to an extreme burnout during the halfway of my MA Program, After hitting pause on it, I now appreciate the uniqueness and impact it had on me.
 
-<i class="fab fa-r-project"></i> has been my all-time favorite language to draw analytical/visual outputs since then. 
-<br><br>
+I've given myself the chance to explore the vast landscape of the consumer market, from offline ratail to online e-commerce, and then from consuming to investing market.
+
+Through these experiences, I've realized that my personality thrives on diving into complex challenges and extracting valuable insights. My passion lies in deciphering the nuances of business dynamics and uncovering opportunities where others might see obstacles. On top of these, 
+
+As I keep connecting with potential partner companies and HR professionals, I hope to find opportunities that align with my analytical and creative mindset and passion for finding a better way to creative business values. 
+
+If you believe our visions align, I'd be thrilled to explore potential collaborations. Please contact me.
+
+<br>
 
 
 <p>
