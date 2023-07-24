@@ -27,7 +27,7 @@ status:
   icon: ☕️
 ---
 
-After completing my business school journey, I set my sights on opportunities that could provide me with a deeper understanding of the "big picture." Instead of following my supposedly paths of marketing or data analysis, I chose a different route.
+After completing my business school journey, I set my sights on opportunities that could provide me with a deeper understanding of the "big picture." Instead of following paths of marketing or data analysis as I thought I would, I chose differently.
 
 Entering the world of e-commerce, I discovered a strong interest in drawing insights from business-related information. In this realm, there are no clear-cut right or wrong answers, but rather, it's the intricacies of people's mindsets, actions, and thoughts that make things hard to plan, execute and manage. Throughout this journey, I learned so much invaluable lessons from my direct manager, Jason.
 
