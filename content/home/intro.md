@@ -6,8 +6,9 @@ author: admin
 widget_id: Project
 enableInlineShortcodes: true
 ---
-
+<br>
 👋🏻 Hi, there! I'm **Chester**. <br>
+<br>
 Born and raised in Tainan, currently base in Taipei, still missing the beachside and sunshine in 西子灣. <br>
 
 Creating is my true passion, and I pour my heart and soul into every project I undertake.
