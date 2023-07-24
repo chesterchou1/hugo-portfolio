@@ -1,6 +1,6 @@
 ---
 title: "Chester Chou"
-role: Business Analyst, Commercial Designer
+role: Business Analyst, Commercial Designer & Bedroom Guitarist
 avatar_filename: avatar.jpeg
 bio: I love creating contents in the business world
 social:
