@@ -8,10 +8,15 @@ enableInlineShortcodes: true
 ---
 
 👋🏻 Hi, there! I'm **Chester**. <br>
-Born and raised in Tainan, currently base in Taipei <br>
+Born and raised in Tainan, currently base in Taipei, still missing the beachside and sunshine in 西子灣. <br>
+
+Creating is my true passion, and I pour my heart and soul into every project I undertake.
+
+My aspirations and standards are set high, as I hope to become a well-rounded creator in both the business world and the realm of music production.
+
+Below I present part of what I've accomplished in the past years, to show my specialties in strategic planning, business analysis, commercial visual design. Feel free to look around and DM me if there's any questions.
 <!-- life components: 🌅 🎸 🎧 🐶 📺 💻 🚴🏼 -->
 <!-- <i class="fa-brands fa-spotify" style="color: #146aff;"></i> -->
-Check out my [resumé](/about/) and portfolio below!
 
 <br>
 
