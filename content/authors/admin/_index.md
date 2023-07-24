@@ -2,7 +2,7 @@
 title: "Chester Chou"
 role: Business Analyst, Commercial Designer & Bedroom Guitarist
 avatar_filename: avatar.jpeg
-bio: I love creating contents in the business world
+bio: Creating contents in the business world
 social:
   - icon: envelope
     icon_pack: fas
