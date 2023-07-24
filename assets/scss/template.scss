@@ -848,7 +848,7 @@ article div.article-container .article-style blockquote {
   color: #86A8E7;
   background-color: #fff;
   content: close-quote;
-}
+} 
 
 .dark article div.article-container .article-style blockquote {
   color: #fff;
@@ -857,7 +857,17 @@ article div.article-container .article-style blockquote {
   content: close-quote;
 }
 
+div.article-style.pt-1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 100;
+  font-size: .9rem;
+}
 
+.dark div.article-style.pt-1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 100;
+  font-size: .9rem;
+}
 
 .dark .article-container .article-style blockquote {
   text-color: red;
