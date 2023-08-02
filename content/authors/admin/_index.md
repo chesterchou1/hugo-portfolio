@@ -39,7 +39,7 @@ Through these experiences, I've realized that my personality thrives on diving i
 
 As I keep connecting with potential partner companies and HR professionals, I hope to find opportunities that align with my analytical and creative mindset and passion for finding a better way to creative business values. 
 
-If you believe our visions align, I'd be thrilled to explore potential collaborations. Please contact me or <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chesterchou/consultation'});return false;">schedule my time</a> .
+If you believe our visions align, I'd be thrilled to explore potential collaborations. Please [contact](/#contact/) me or <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chesterchou/consultation'});return false;">schedule my time</a> .
 
 <br>
 
