@@ -39,10 +39,16 @@ Through these experiences, I've realized that my personality thrives on diving i
 
 As I keep connecting with potential partner companies and HR professionals, I hope to find opportunities that align with my analytical and creative mindset and passion for finding a better way to creative business values. 
 
-If you believe our visions align, I'd be thrilled to explore potential collaborations. Please contact me.
+If you believe our visions align, I'd be thrilled to explore potential collaborations. Please contact me or <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chesterchou/consultation'});return false;">schedule my time</a> .
 
 <br>
 
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/chesterchou/consultation', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
+<!-- Calendly badge widget end -->
 
 <p>
   <a class="btn btn-primary" data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">{{< icon name="circle-arrow-down" pack="fas" >}}Download My English Resumé (.pdf)</a>
