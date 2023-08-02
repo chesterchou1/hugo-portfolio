@@ -35,7 +35,7 @@ Later, I ventured into the financial industry, immersing myself in areas that di
 
 I've given myself the chance to explore the vast landscape of the consumer market, from offline ratail to online e-commerce, and then from consuming to investing market.
 
-Through these experiences, I've realized that my personality thrives on diving into complex challenges and extracting valuable insights. My passion lies in decoding the nuances of business dynamics and uncovering opportunities where others might see obstacles (or they ‘d rather refuse to recognize). At the same time, as a content creator, I’ll keep making contents that brings value to the community.
+Through these experiences, I've realized that my personality thrives on diving into complex challenges and extracting valuable insights. My passion lies in decoding the nuances of business dynamics and uncovering opportunities where others might see obstacles. At the same time, as a content creator, I’ll keep making contents that brings value to the community.
 
 As I keep connecting with potential partner companies and HR professionals, I hope to find opportunities that align with my analytical and creative mindset and passion for finding a better way to creative business values. 
 
