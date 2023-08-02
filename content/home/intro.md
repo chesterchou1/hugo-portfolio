@@ -11,7 +11,15 @@ enableInlineShortcodes: true
 
 Creating is my true passion, and I pour my heart and soul into every project I undertake. My aspirations and standards are set high, as I hope to become a well-rounded creator in both the business world and the realm of music production. <br>
 
-Below I present part of what I've accomplished in the past years, to show my specialties in strategic planning, business analysis, commercial visual design. Feel free to look around and DM me if there's any questions.
+Below I present part of what I've accomplished in the past years, to show my specialties n strategic planning, business analysis, commercial visual design. Feel free to look around and <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script><a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/chesterchou/consultation'});return false;">Schedule my time</a> me if there's any questions.
+
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/chesterchou/consultation', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
+<!-- Calendly badge widget end -->
+
 <!-- life components: 🌅 🎸 🎧 🐶 📺 💻 🚴🏼 -->
 <!-- <i class="fa-brands fa-spotify" style="color: #146aff;"></i> -->
 
