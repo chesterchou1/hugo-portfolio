@@ -27,7 +27,7 @@ status:
   icon: ☕️
 ---
 
-After completing my business school journey, I set my sights on opportunities that could provide me with a deeper understanding of the "big picture." Instead of following paths of marketing or data analysis as I thought I would , I chose differently.
+After completing my business school journey, I set my sights on opportunities that could provide me with a deeper understanding of the "big picture." Instead of following paths of marketing or data analysis as I thought I would, I chose differently.
 
 Entering the world of e-commerce, I discovered a strong interest in drawing insights from business-related information. In this realm, there are no clear-cut right or wrong answers, but rather, it's the intricacies of people's mindsets, actions, and thoughts that make things hard to plan, execute and manage. Throughout this journey, I learned so much invaluable lessons from my direct manager, Jason.
 
@@ -52,6 +52,8 @@ If you believe our visions align, I'd be thrilled to explore potential collabora
 
 <p>
   <a class="btn btn-primary" data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">{{< icon name="circle-arrow-down" pack="fas" >}}Download My English Resumé (.pdf)</a>
+
+
   <!-- <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Toggle second element</button> -->
   <!-- <button class="btn btn-primary" type="button" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2">Toggle both elements</buttohugon> -->
 </p>
